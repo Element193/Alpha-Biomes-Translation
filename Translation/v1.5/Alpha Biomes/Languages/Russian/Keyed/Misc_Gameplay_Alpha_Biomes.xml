@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!--     Options     -->
+
+<AB_UseAgariluxParticles>Агарилюкс Прайм выделяет вредный газ</AB_UseAgariluxParticles>
+<AB_SpawnBiome>Биом: {0}</AB_SpawnBiome>
+<AB_RemoveVanillaBiomes>Отключить все стандартные биомы</AB_RemoveVanillaBiomes>
+<AB_BrighterCrags>Темная пустыня ярче</AB_BrighterCrags>
+<AB_BrighterCragsDescription>Сделать темные пустыни более светлыми, если на экран не позволяет разглядеть детали. Вступает в силу при следующем изменении погоды или при загрузке сохранения.</AB_BrighterCragsDescription>
+
+
+<!--     Buildings     -->
+
+<AB_TerrainCannotSupport_Propane>Помпа должна быть установлена на прочном пропановом ландшафте</AB_TerrainCannotSupport_Propane>
+<AB_OcularForestOnly>Устройство будет работать только в окулярном биоме</AB_OcularForestOnly>
+<AB_SpawningNextBumbledrone>Появление новых ульев шмелей в {0}</AB_SpawningNextBumbledrone>
+<AB_AlphaAnimalsNotInstalled>Поскольку мод Alpha Animals отсутствует, этот улей неактивен.</AB_AlphaAnimalsNotInstalled>
+<AB_MustPlaceOnTarPit>Помпа должна быть установлена на смоле или в смоляной луже.</AB_MustPlaceOnTarPit>
+<AB_WarningLowEfficiency>Насос работает в режиме низкого КПД из-за отсутствия смоляного ландшафта</AB_WarningLowEfficiency>
+
+<!--     Misc     -->
+
+<AB_NotReallyAPlant>Это просто отвратительная лужа вонючей смолы.</AB_NotReallyAPlant>
+<AB_MessageWarningTooHighFertility>Нужна менее плодородная почва.</AB_MessageWarningTooHighFertility>
+
+<!-- Core Sample Drill -->
+
+<AB_ChunkMarbleMine>Добывать обломки мрамора</AB_ChunkMarbleMine>
+<AB_ChunkSandstoneMine>Добывать обломки песчаника</AB_ChunkSandstoneMine>
+<AB_ChunkLimestoneMine>Добывать обломки известняка</AB_ChunkLimestoneMine>
+<AB_ChunkGraniteMine>Добывать обломки гранита</AB_ChunkGraniteMine>
+<AB_ChunkSlateMine>Добывать обломки сланца</AB_ChunkSlateMine>
+
+<AB_ChunkRandomMine>Добывать случайные обломки</AB_ChunkRandomMine>
+
+<AB_ChooseMine>Выбрать обломки для добычи</AB_ChooseMine>
+<AB_ChooseMineDesc>Выберите тип обломков для добычи. Можно выбрать любой стандартный обломок, или бурить случайные</AB_ChooseMineDesc>
+<AB_DrillingStoneType>Тип добываемых обломков: </AB_DrillingStoneType>
+<AB_DrillingStoneTypeRandom>Тип добываемых обломков: Случайные</AB_DrillingStoneTypeRandom>
+<AB_ProgressToNextPortion>До следующего обломка</AB_ProgressToNextPortion>
+
+<!-- Biome commonality -->
+
+<AB_BiomeMultiplier>Плотность биомов: {0}</AB_BiomeMultiplier>
+<AB_MultiplierTooltip>Этот множитель влияет на изменение плотности {0} при создании мира. Имейте в виду, что плотность биомов не линейна, поэтому вам придется экспериментировать и настраивать, пока вы не получите плотность биомов, которая соответствует вашим идеалам. Не забывайте также, что на это могут повлиять другие моды, которые либо добавляют новые биомы, либо изменяют способ создания мира в игре.</AB_MultiplierTooltip>
+
+
+
+<AB_Reset>Сбросить {0}</AB_Reset>
+
+<!-- WITab titles -->
+<AB_TabImage>Просмотр</AB_TabImage>
+
+
+</LanguageData>

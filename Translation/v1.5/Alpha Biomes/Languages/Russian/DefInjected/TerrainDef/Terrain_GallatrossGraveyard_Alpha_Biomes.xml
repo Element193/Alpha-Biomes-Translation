@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_GallatrossGraveyard.xml-->
+  <AB_CrackedMud.label>глинистая почва</AB_CrackedMud.label>
+  <AB_CrackedMud.tools.0.label>грязь</AB_CrackedMud.tools.0.label>
+  
+  <AB_RichCrackedMud.label>плодородная глинистая почва</AB_RichCrackedMud.label>
+  <AB_RichCrackedMud.tools.0.label>грязь</AB_RichCrackedMud.tools.0.label>
+  
+  <AB_FineSand.label>мягкий песок</AB_FineSand.label>
+  <AB_FineSand.tools.0.label>песок</AB_FineSand.tools.0.label>
+</LanguageData>

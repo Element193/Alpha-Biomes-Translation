@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\Drugs\AB_PsychotropicFungus.xml-->
+  
+  <Chemical_AB_PsychotropicFungus.label>психотропный гриб</Chemical_AB_PsychotropicFungus.label>
+  <Chemical_AB_PsychotropicFungus.description>Из-за зависимости от психотропного гриба этому человеку необходимо регулярно принимать наркотик, чтобы избежать симптомов синдрома отмены.</Chemical_AB_PsychotropicFungus.description>
+</LanguageData>

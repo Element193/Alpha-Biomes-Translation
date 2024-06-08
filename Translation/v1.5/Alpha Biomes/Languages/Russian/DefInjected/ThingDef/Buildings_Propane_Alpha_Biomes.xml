@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Buildings\Buildings_Propane.xml-->
+  <AB_PropanePump.label>пропановый насос</AB_PropanePump.label>
+  <AB_PropanePump.description>Добывает пропан и перерабатывает его в пригодное для использования топливо. Очевидно, что это бесполезно в большинстве биомов.</AB_PropanePump.description>
+  
+  <AB_PropaneStove.label>газовая плита</AB_PropaneStove.label>
+  <AB_PropaneStove.description>Стол для приготовления пищи с плитой, работающей на пропане.</AB_PropaneStove.description>
+
+  <AB_PropaneHeater.label>газовый обогреватель</AB_PropaneHeater.label>
+  <AB_PropaneHeater.description>Устройство сжигающее пропан для отопления помещений. Расходует много топлива если разница температур слишком велика, однако при тщательной настройке он достаточно экономичен.</AB_PropaneHeater.description>
+</LanguageData>

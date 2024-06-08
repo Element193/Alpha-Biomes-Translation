@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_PropaneLakes.xml-->
+  <AB_PackedSnow.label>плотный снег</AB_PackedSnow.label>
+  
+  <AB_PackedIce.label>колотый лёд</AB_PackedIce.label>
+  
+  <AB_SolidPropane.label>твердый пропан</AB_SolidPropane.label>
+  
+  <AB_SnowOverRocks.label>заснеженный камень</AB_SnowOverRocks.label>
+  
+  <AB_PropaneLake.tools.0.label>вода</AB_PropaneLake.tools.0.label>
+  <AB_PropaneLake.label>жидкий пропан</AB_PropaneLake.label>
+</LanguageData>

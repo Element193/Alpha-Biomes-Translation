@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_TarPits.xml-->
+  <AB_GreenRockFern.label>горный папоротник</AB_GreenRockFern.label>
+  <AB_GreenRockFern.description>Дикий высокий папоротник. Замедляет передвижение.</AB_GreenRockFern.description>
+  
+  <AB_Iashiphus.label>яшифус</AB_Iashiphus.label>
+  <AB_Iashiphus.description>Яркое зеленое растение, родственник кактуса. Хотя его сочная кора не съедобна, оно производит цветы, которые можно употреблять в пищу.</AB_Iashiphus.description>
+  
+  <AB_SugarFamewort.label>сахарный зверобой</AB_SugarFamewort.label>
+  <AB_SugarFamewort.description>Сахарный зверобой растет в местах с высокой концентрацией опыляющих насекомых. Он выделяет сладкий привлекающий насекомых нектар, насекомые питаются им и рассеивают пыльцу.</AB_SugarFamewort.description>
+  
+  <AB_RavenNettle.label>воронья крапива</AB_RavenNettle.label>
+  <AB_RavenNettle.description>Спутанные колючие древесные стебли, покрытые листьями. Воронья крапива растет гроздьями и замедляет передвижение.</AB_RavenNettle.description>
+  
+  <AB_FanPalm.label>веерная пальма</AB_FanPalm.label>
+  <AB_FanPalm.description>Эта пальма растет в местах с плодородной почвой, которая окружает смоляные пустыни.</AB_FanPalm.description>
+  
+  <AB_KeeningCordax.label>воющий кордакс</AB_KeeningCordax.label>
+  <AB_KeeningCordax.description>Плотоядное растение, названное так за высокий звук, который оно издает в дневное время. Его огромные отверстия заполнены пахучим, липким веществом, которое привлекает всевозможных мелких насекомых, которые прилипают к веществу и неизбежно погибают, служа пищей для растения.</AB_KeeningCordax.description>
+  
+  <AB_TarPuddle.label>смоляная лужа</AB_TarPuddle.label>
+  <AB_TarPuddle.description>Лужа свежей смолы. Ни одно животное не станет ее есть, верно?</AB_TarPuddle.description>
+</LanguageData>

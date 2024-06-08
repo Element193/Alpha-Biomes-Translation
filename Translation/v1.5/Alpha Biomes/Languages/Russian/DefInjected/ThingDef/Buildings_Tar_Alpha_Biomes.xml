@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Buildings\Buildings_Tar.xml-->
+  <AB_TarPump.label>смоляная помпа</AB_TarPump.label>
+  <AB_TarPump.description>Извлекает смолу и превращает ее в химическое топливо.</AB_TarPump.description>
+  
+  <AB_TrapIED_Tar.label>липкая ловушка</AB_TrapIED_Tar.label>
+  <AB_TrapIED_Tar.description>Пара липких смоляных зарядов, соединенных с пусковым механизмом, который детонирует от прикосновения или попадания пули. Липкие ловушки предназначены для скрытой установки, их нельзя ставить рядом с другими подобными устройствами. Животные в спокойном состоянии обходят мины и ловушки стороной.</AB_TrapIED_Tar.description>
+</LanguageData>

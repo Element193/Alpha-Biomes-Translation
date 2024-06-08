@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Mods\Biotech\Defs\ThingDefs_Plants\Plants_Mycotic_Polluted.xml-->
+  <AB_GiantAgariTox.label>агаритокс</AB_GiantAgariTox.label>
+  <AB_GiantAgariTox.description>Гигантский гриб, который приспособился к росту в чрезвычайно загрязненной среде.</AB_GiantAgariTox.description>
+  
+  <AB_LandCoral.label>Аметистовый коралловый гриб</AB_LandCoral.label>
+  <AB_LandCoral.description>Очень странный гриб пурпурного цвета, напоминающий коралл. Растет только в загрязненной почве.</AB_LandCoral.description>
+</LanguageData>

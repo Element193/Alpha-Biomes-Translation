@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\RecipeDefs\Recipes_Refinery.xml-->
+  <AB_PropaneToChemfuel.label>получить химтопливо из пропана</AB_PropaneToChemfuel.label>
+  <AB_PropaneToChemfuel.description>Получить партию химического топлива из пропана. Это неэффективный способ, но полезен для избавления от нежелательного пропана.</AB_PropaneToChemfuel.description>
+  <AB_PropaneToChemfuel.jobString>Производит химтопливо из пропана</AB_PropaneToChemfuel.jobString>
+</LanguageData>

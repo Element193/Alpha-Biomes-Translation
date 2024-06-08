@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_MechanoidIntrusion.xml-->
+  <GU_MetalFloor1.label>полимерное покрытие</GU_MetalFloor1.label>
+  
+  <GU_MetalFloor2.label>стальное покрытие</GU_MetalFloor2.label>
+  
+  <GU_MetalFloor3.label>бесшовное стальное покрытие</GU_MetalFloor3.label>
+  
+  <AB_SoilOnCrackedMetal.label>ржавая земля</AB_SoilOnCrackedMetal.label>
+  
+  <GU_Piping.label>выступающие трубы</GU_Piping.label>
+</LanguageData>

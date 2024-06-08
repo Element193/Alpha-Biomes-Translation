@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Royalty patch-->
+  <AB_FinestoneRoseQuartz.description>Роскошная каменная плитка без малейшего изъяна, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</AB_FinestoneRoseQuartz.description>
+  <AB_FinestoneRoseQuartz.label>изысканная плитка из кварца</AB_FinestoneRoseQuartz.label>
+  
+  <AB_FinestoneMudstone.description>Роскошная каменная плитка без малейшего изъяна, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</AB_FinestoneMudstone.description>
+  <AB_FinestoneMudstone.label>изысканная плитка из глины</AB_FinestoneMudstone.label>
+  
+  <AB_FinestoneCragstone.description>Роскошная каменная плитка без малейшего изъяна, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</AB_FinestoneCragstone.description>
+  <AB_FinestoneCragstone.label>изысканная плитка из темного камня</AB_FinestoneCragstone.label>
+  
+  <AB_FinestoneObsidian.description>Роскошная каменная плитка без малейшего изъяна, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</AB_FinestoneObsidian.description>
+  <AB_FinestoneObsidian.label>изысканная плитка из обсидиана</AB_FinestoneObsidian.label>
+</LanguageData>

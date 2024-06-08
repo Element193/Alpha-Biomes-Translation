@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\Drugs\AB_PsychotropicFungus.xml-->
+  
+  <AB_PsychotropicFungusHigh.stages.0.label>странные грибы</AB_PsychotropicFungusHigh.stages.0.label>
+  <AB_PsychotropicFungusHigh.stages.0.description>Я {PAWN_gender ? cъел : cъела} кучу странных грибов и чувствую себя как воздушный змей</AB_PsychotropicFungusHigh.stages.0.description>
+  
+  <AB_PsychotropicFungusWithdrawal.stages.1.label>ломка по психогрибу</AB_PsychotropicFungusWithdrawal.stages.1.label>
+  <AB_PsychotropicFungusWithdrawal.stages.1.description>Мои руки дрожат. Как будто мир потерял все краски.</AB_PsychotropicFungusWithdrawal.stages.1.description>
+</LanguageData>

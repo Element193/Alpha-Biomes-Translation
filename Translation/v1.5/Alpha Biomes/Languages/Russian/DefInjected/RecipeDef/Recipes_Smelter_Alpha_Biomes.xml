@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\RecipeDefs\Recipes_Smelter.xml-->
+  <AB_RedQuartzToAlcyonite.label>извлечь альционит из розового кварца</AB_RedQuartzToAlcyonite.label>
+  <AB_RedQuartzToAlcyonite.description>Извлечь полезные обломки альционита из розового кварца.</AB_RedQuartzToAlcyonite.description>
+  <AB_RedQuartzToAlcyonite.jobString>Извлекает альционит из розового кварца</AB_RedQuartzToAlcyonite.jobString>
+  
+  <AB_CrystalWoodToMatrix.label>переработать кристаллическую древесину в матрицу</AB_CrystalWoodToMatrix.label>
+  <AB_CrystalWoodToMatrix.description>Переработать кристаллическую древесину в прочную кристаллическую матрицу, которая сохраняет и поддерживает температуру.</AB_CrystalWoodToMatrix.description>
+  <AB_CrystalWoodToMatrix.jobString>Перерабатывает кристаллическую древесину в матрицу</AB_CrystalWoodToMatrix.jobString>
+  
+  <AB_ResinToProcessed.label>переработать смолу в герметик</AB_ResinToProcessed.label>
+  <AB_ResinToProcessed.description>Переработать смолу в густой герметик, который можно использовать для строительства зданий.</AB_ResinToProcessed.description>
+  <AB_ResinToProcessed.jobString>Перерабатывает смолу в герметик</AB_ResinToProcessed.jobString>
+</LanguageData>

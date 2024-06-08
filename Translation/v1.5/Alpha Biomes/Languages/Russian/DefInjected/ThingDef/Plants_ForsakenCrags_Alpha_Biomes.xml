@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_ForsakenCrags.xml-->
+  <AB_GiantStikehr.label>гигантский стикер</AB_GiantStikehr.label>
+  <AB_GiantStikehr.description>Гигантский инопланетный гриб, который светится в странном затухающем тумане. В отличие от других грибов, гигантский стикер может расти на солнечном свету, если его защищает темный туман. Стебель настолько твердый, что его можно считать деревом.</AB_GiantStikehr.description>
+  
+  <AB_GiantSeptimum.label>гигантская септима</AB_GiantSeptimum.label>
+  <AB_GiantSeptimum.description>Огромное растение, которое имеет цветок размером с человека. Выращиваемые септимы используются в качестве источника волокон Ультимы, но это растение слишком старо, его волокна слишком жесткие для использования.</AB_GiantSeptimum.description>
+  
+  <AB_GlowingGrass.label>трава</AB_GlowingGrass.label>
+  <AB_GlowingGrass.description>икая трава. Растёт везде, где есть хоть немного света и минимально плодородная почва.</AB_GlowingGrass.description>
+  
+  <AB_WildRadagast.label>дикий радагаст</AB_WildRadagast.label>
+  <AB_WildRadagast.description>Извилистое инопланетное растение с небольшими светящимися ягодами. Хотя они и не съедобны, но могут быть использованы для производства некоторых химических веществ.</AB_WildRadagast.description>
+  
+  <AB_GiantGamma.label>биогамма</AB_GiantGamma.label>
+  <AB_GiantGamma.description>Как и многие другие представители флоры с родной планеты Форсакенов, это огромное шаровидное растение обладает биолюминесценцией. Маленькие растения можно использовать в качестве декоративных светильников, дикие и большие излучают столько же света, как солнечный светильник.</AB_GiantGamma.description>
+</LanguageData>

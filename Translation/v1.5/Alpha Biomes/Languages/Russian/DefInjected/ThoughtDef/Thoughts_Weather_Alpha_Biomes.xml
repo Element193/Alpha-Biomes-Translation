@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThoughtDefs\Thoughts_Weather.xml-->
+  <AB_ForsakenNight.stages.0.label>ненормальная тьма</AB_ForsakenNight.stages.0.label>
+  <AB_ForsakenNight.stages.0.description>Словно само солнце утопает в отчаянии. Я ненавижу это.</AB_ForsakenNight.stages.0.description>
+  
+  <AB_ForsakenRain.stages.0.label>мокро и темно</AB_ForsakenRain.stages.0.label>
+  <AB_ForsakenRain.stages.0.description>Я насквозь {PAWN_gender ? промок : промокла} и ничего не вижу.</AB_ForsakenRain.stages.0.description>
+  
+  <AB_ForsakenThunderstorm.stages.0.label>ненормальный шторм</AB_ForsakenThunderstorm.stages.0.label>
+  <AB_ForsakenThunderstorm.stages.0.description>Темно как в пустоте, молнии бьют повсюду. Мы обречены.</AB_ForsakenThunderstorm.stages.0.description>
+  
+  <AB_RedFogThought.stages.0.label>ненормальная погода</AB_RedFogThought.stages.0.label>
+  <AB_RedFogThought.stages.0.description>Этот туман странный на вкус. Он странно выглядит. Он ощущается как неправильный, как будто не от мира сего.</AB_RedFogThought.stages.0.description>
+  
+  <AB_VolcanicAshThought.stages.0.label>не могу дышать</AB_VolcanicAshThought.stages.0.label>
+  <AB_VolcanicAshThought.stages.0.description>Так трудно дышать в этом пепле!</AB_VolcanicAshThought.stages.0.description>
+  
+  <AB_RedFogThoughtPositive.stages.0.label>загадочная погода</AB_RedFogThoughtPositive.stages.0.label>
+  <AB_RedFogThoughtPositive.stages.0.description>На самом деле... Я люблю этот туман. Он - мой друг. Я бы поцеловал туман, если бы мог. Подчиняться. Потреблять. Ласкать глазное яблоко. Подождите, что?</AB_RedFogThoughtPositive.stages.0.description>
+</LanguageData>

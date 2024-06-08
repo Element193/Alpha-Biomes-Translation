@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\RulePackDefs\RulePacks_Damage.xml-->
+  <AB_Damage_Tar.rulePack.rulesStrings>
+		<li>damaged_past->липнет</li>
+		<li>damaged_past->прилипает</li>
+		<li>damaged_past->останавливает</li>
+		<li>destroyed->[damaged]</li>
+  </AB_Damage_Tar.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_IdyllicMeadows.xml-->
+  <AB_GrassyFlowerySoil.label>цветущая земля</AB_GrassyFlowerySoil.label>
+  <AB_GrassyFlowerySoil.tools.0.label>земля</AB_GrassyFlowerySoil.tools.0.label>
+  
+  <AB_FertileGrassyFlowerySoil.label>плодородная цветущая земля</AB_FertileGrassyFlowerySoil.label>
+  <AB_FertileGrassyFlowerySoil.tools.0.label>земля</AB_FertileGrassyFlowerySoil.tools.0.label>
+</LanguageData>

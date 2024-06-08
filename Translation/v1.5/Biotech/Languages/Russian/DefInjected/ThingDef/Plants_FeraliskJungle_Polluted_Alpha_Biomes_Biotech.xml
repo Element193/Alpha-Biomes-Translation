@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Mods\Biotech\Defs\ThingDefs_Plants\Plants_FeraliskJungle_Polluted.xml-->
+  <AB_JungleTree_Polluted.label>токсичное тропическое дерево</AB_JungleTree_Polluted.label>
+  <AB_JungleTree_Polluted.description>Это тропическое дерево неизвестного происхождения, возможно, оно родом из самых густых расщелин инопланетных джунглей. Оно хорошо приспособилось к загрязненной почве и токсинам в воздухе. Ему даже не нужно очищать загрязнения из окружающей среды.</AB_JungleTree_Polluted.description>
+  
+  <AB_WeepingToxberry.label>плачущий куст</AB_WeepingToxberry.label>
+  <AB_WeepingToxberry.description>Небольшой куст, приспособленный к токсинам. Его ягоды настолько ядовиты, что ни одно животное не осмелится их съесть.</AB_WeepingToxberry.description>
+</LanguageData>

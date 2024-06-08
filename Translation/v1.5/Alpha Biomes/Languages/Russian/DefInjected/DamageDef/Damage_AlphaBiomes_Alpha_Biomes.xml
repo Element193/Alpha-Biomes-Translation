@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\DamageDefs\Damage_AlphaBiomes.xml-->
+  <AB_ParalysingSting.deathMessage>{0} был забит до смерти.</AB_ParalysingSting.deathMessage>
+  <AB_ParalysingSting.label>парализующее жало</AB_ParalysingSting.label>
+  
+  <AB_Tar.label>смола</AB_Tar.label>
+  
+  <AB_Gangrene.label>гангрена</AB_Gangrene.label>
+  <AB_Gangrene.deathMessage>{0} умер от гангрены.</AB_Gangrene.deathMessage>
+</LanguageData>

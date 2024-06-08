@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_PyroclasticConflagration.xml-->
+  <AB_BrownBarrelCactus.label>бурый кактус</AB_BrownBarrelCactus.label>
+  <AB_BrownBarrelCactus.description>Бурый бочковидный кактус, процветающий в условиях недостатка воды и солнечного света. Его странный бурый цвет обусловлен почти полным отсутствием хлорофилла. Вместо этого растение извлекает большую часть питательных веществ из минералов.</AB_BrownBarrelCactus.description>
+  
+  <AB_TinkleGrass.label>звонкая трава</AB_TinkleGrass.label>
+  <AB_TinkleGrass.description>Дикая трава. Растёт везде, где есть хоть немного света и минимально плодородная почва.</AB_TinkleGrass.description>
+  
+  <AB_FirevineTree.label>Огненное дерево</AB_FirevineTree.label>
+  <AB_FirevineTree.description>Огнеупорное растение, способное выживать в лесных пожарах благодаря своей огнестойкой коре. Для роста семечка необходим огонь, поэтому огненная лоза встречается только возле действующих вулканов.</AB_FirevineTree.description>
+</LanguageData>

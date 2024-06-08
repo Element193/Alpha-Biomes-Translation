@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_Floors_StoneTileAndWood.xml-->
+  <AB_TileRoseQuartz.description>Аккуратно вырезанные и подогнанные друг к другу каменные плитки, как в средневековом замке. Приятны на вид, но укладка требует времени.</AB_TileRoseQuartz.description>
+  <AB_TileRoseQuartz.label>плитка из розового кварца</AB_TileRoseQuartz.label>
+  
+  <AB_TileMudstone.description>Аккуратно вырезанные и подогнанные друг к другу каменные плитки, как в средневековом замке. Приятны на вид, но укладка требует времени.</AB_TileMudstone.description>
+  <AB_TileMudstone.label>плитка из глиняного камня</AB_TileMudstone.label>
+  
+  <AB_TileCragstone.description>Аккуратно вырезанные и подогнанные друг к другу каменные плитки, как в средневековом замке. Приятны на вид, но укладка требует времени.</AB_TileCragstone.description>
+  <AB_TileCragstone.label>плитка из темного камня</AB_TileCragstone.label>
+  
+  <AB_TileObsidian.description>Аккуратно вырезанные и подогнанные друг к другу каменные плитки, как в средневековом замке. Приятны на вид, но укладка требует времени.</AB_TileObsidian.description>
+  <AB_TileObsidian.label>плитка из обсидиана</AB_TileObsidian.label>
+  
+  <AB_FlagstoneRoseQuartz.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</AB_FlagstoneRoseQuartz.description>
+  <AB_FlagstoneRoseQuartz.label>грубая плитка из розового кварца</AB_FlagstoneRoseQuartz.label>
+  
+  <AB_FlagstoneMudstone.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</AB_FlagstoneMudstone.description>
+  <AB_FlagstoneMudstone.label>грубая плитка из глиняного камня</AB_FlagstoneMudstone.label>
+  
+  <AB_FlagstoneCragstone.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</AB_FlagstoneCragstone.description>
+  <AB_FlagstoneCragstone.label>грубая плитка из темного камня</AB_FlagstoneCragstone.label>
+  
+  <AB_FlagstoneObsidian.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</AB_FlagstoneObsidian.description>
+  <AB_FlagstoneObsidian.label>грубая плитка из обсидиана</AB_FlagstoneObsidian.label>
+  
+  <AB_AlienWoodFloors_MushroomStalks.description>Полы, изготовленные необычных материалов.</AB_AlienWoodFloors_MushroomStalks.description>
+  <AB_AlienWoodFloors_MushroomStalks.label>покрытие из грибного дерева</AB_AlienWoodFloors_MushroomStalks.label>
+  
+  <AB_AlienWoodFloors_RedWood.description>Полы, изготовленные из необычных материалов.</AB_AlienWoodFloors_RedWood.description>
+  <AB_AlienWoodFloors_RedWood.label>покрытие из красного дерева</AB_AlienWoodFloors_RedWood.label>
+  
+  <AB_CrystalWoodFloors_RedWood.description>Полы, изготовленные из необычных материалов.</AB_CrystalWoodFloors_RedWood.description>
+  <AB_CrystalWoodFloors_RedWood.label>покрытие из кристаллической древесины</AB_CrystalWoodFloors_RedWood.label>
+  
+  <AB_TarmacFloor.description>Полы, изготовленные из необычных материалов.</AB_TarmacFloor.description>
+  <AB_TarmacFloor.label>асфальт</AB_TarmacFloor.label>
+</LanguageData>

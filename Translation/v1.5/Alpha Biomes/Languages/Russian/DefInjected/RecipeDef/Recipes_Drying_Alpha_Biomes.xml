@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\RecipeDefs\Recipes_Drying.xml-->
+  <AB_FrostleafToHay.label>сушить морозный лист</AB_FrostleafToHay.label>
+  <AB_FrostleafToHay.description>Сушить морозный лист для получения сена.</AB_FrostleafToHay.description>
+  <AB_FrostleafToHay.jobString>сушит морозный лист</AB_FrostleafToHay.jobString>
+</LanguageData>

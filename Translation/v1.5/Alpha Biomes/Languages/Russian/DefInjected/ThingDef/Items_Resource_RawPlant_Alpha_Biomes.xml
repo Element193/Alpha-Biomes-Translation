@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Items\Items_Resource_RawPlant.xml-->
+  <AB_PinkRawFungus.label>розовый гриб</AB_PinkRawFungus.label>
+  <AB_PinkRawFungus.description>Сырой гриб. Этот сорт хранится дольше, не гния, что делает его более ценным.</AB_PinkRawFungus.description>
+  
+  <AB_BlueRawFungus.label>синий гриб</AB_BlueRawFungus.label>
+  <AB_BlueRawFungus.description>Несмотря на то что эти грибы выглядят странно, их приятно есть даже в сыром виде.</AB_BlueRawFungus.description>
+  
+  <AB_PurpleRawFungus.label>фиолетовый гриб</AB_PurpleRawFungus.label>
+  <AB_PurpleRawFungus.description>Сырой гриб. Эти грибы более питательны, чем другие, но вероятность пищевого отравления, выше.</AB_PurpleRawFungus.description>
+  
+  <AB_RawSlime.label>слизь</AB_RawSlime.label>
+  <AB_RawSlime.description>Сырая слизь. Эта штука съедобна, возможно.</AB_RawSlime.description>
+  
+  <AB_RawCrystalHorn.label>ледяной рог</AB_RawCrystalHorn.label>
+  <AB_RawCrystalHorn.description>Часть структуры этого растения явно кристаллическая. Съедобно, но неприятно хрустит.</AB_RawCrystalHorn.description>
+  
+  <AB_RawFrostLeaf.label>морозный лист</AB_RawFrostLeaf.label>
+  <AB_RawFrostLeaf.description>Эти полупрозрачные растения похоже растут практически везде, даже в заснеженных районах. Их можно сушить на костре и использовать в качестве корма для травоядных животных.</AB_RawFrostLeaf.description>
+  
+  <AB_RawTentacularFruit.label>щупальцефрукт</AB_RawTentacularFruit.label>
+  <AB_RawTentacularFruit.description>Синие фрукты, которые растут на конце каждой щупальцы странного растения.</AB_RawTentacularFruit.description>
+  
+  <AB_RawIashiphus.label>лепестки яшифуса</AB_RawIashiphus.label>
+  <AB_RawIashiphus.description>Толстые ярко-красные лепестки яшифуса.</AB_RawIashiphus.description>
+  
+  <AB_RawBrownBarrelCactus.label>бочковый кактус</AB_RawBrownBarrelCactus.label>
+  <AB_RawBrownBarrelCactus.description>Водянистая луковица бурого кактуса. Безвкусно.</AB_RawBrownBarrelCactus.description>
+  
+  <AB_RawSugarFamewort.label>сахарная рябина</AB_RawSugarFamewort.label>
+  <AB_RawSugarFamewort.description>Сладкие мягкие луковицы, идеальная приправа к любому блюду.</AB_RawSugarFamewort.description>
+  
+  <AB_RawBloodBouquet.label>кровавый плод</AB_RawBloodBouquet.label>
+  <AB_RawBloodBouquet.description>Эти покрытие шипами плоды кажутся такими же твердыми как ствол растения с которого они собраны. Внутренняя мякоть плода по вкусу напоминает залитое кровью мясо, и травоядные животные отказываются его есть.</AB_RawBloodBouquet.description>
+  
+  <AB_BumbledroneFood.label>желе шмелей</AB_BumbledroneFood.label>
+  <AB_BumbledroneFood.description>Органическое вещество, производимое ульем шмелей. Его производит каста шмелей, которая никогда не покидает подземную часть улья. Это желе обеспечивает питание шмелям, которым необходимо покинуть улей по какой-либо причине, например, в поисках пищи или для охоты.</AB_BumbledroneFood.description>
+  
+  <AB_GiantSeeds.label>семена гигантского подсолнуха</AB_GiantSeeds.label>
+  <AB_GiantSeeds.description>Семена подсолнуха чаще используют в качестве закуски. Их также можно готовить в качестве гарнира или основного ингредиента в различных рецептах. Эти семена гигантские!</AB_GiantSeeds.description>
+</LanguageData>

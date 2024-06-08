@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Misc\Various_Stone.xml-->
+  <GU_RoseQuartz.label>розовый кварц</GU_RoseQuartz.label>
+  <GU_RoseQuartz.description>Твердый минерал розоватого цвета.</GU_RoseQuartz.description>
+  
+  <GU_SmoothedQuartz.label>полированный кварц</GU_SmoothedQuartz.label>
+  <GU_SmoothedQuartz.description>Твердый минерал розоватого цвета. Слои отполированы до ровной, гладкой структуры.</GU_SmoothedQuartz.description>
+  
+  <GU_ChunkRoseQuartz.description>Обломок горной породы. Можно разрезать на полезные блоки.</GU_ChunkRoseQuartz.description>
+  <GU_ChunkRoseQuartz.label>обломок кварца</GU_ChunkRoseQuartz.label>
+  
+  <GU_BlocksRoseQuartz.label>блоки кварца</GU_BlocksRoseQuartz.label>
+  <GU_BlocksRoseQuartz.description>Цельные блоки розового кварца.</GU_BlocksRoseQuartz.description>
+  <GU_BlocksRoseQuartz.stuffProps.stuffAdjective>розового кварца</GU_BlocksRoseQuartz.stuffProps.stuffAdjective>
+  
+  <AB_Cragstone.label>темный камень</AB_Cragstone.label>
+  <AB_Cragstone.description>Однородная метаморфическая порода темного цвета. Эти камни словно притягивают окружающую их темноту.</AB_Cragstone.description>
+  
+  <AB_SmoothedCragstone.label>полированный темный камень</AB_SmoothedCragstone.label>
+  <AB_SmoothedCragstone.description>Однородная метаморфическая порода темного цвета. Эти камни словно притягивают окружающую их темноту.</AB_SmoothedCragstone.description>
+  
+  <AB_ChunkCragstone.description>Обломок камня. Можно разрезать на полезные блоки.</AB_ChunkCragstone.description>
+  <AB_ChunkCragstone.label>обломок темного камня</AB_ChunkCragstone.label>
+  
+  <AB_BlocksCragstone.label>блоки темного камня</AB_BlocksCragstone.label>
+  <AB_BlocksCragstone.description>Цельные блоки темного камня. Эти камни словно притягивают окружающую их темноту.</AB_BlocksCragstone.description>
+  <AB_BlocksCragstone.stuffProps.stuffAdjective>темного камня</AB_BlocksCragstone.stuffProps.stuffAdjective>
+  
+  <AB_Obsidianstone.label>обсидиан</AB_Obsidianstone.label>
+  <AB_Obsidianstone.description>Вулканическое стекло природного происхождения, образовавшееся в результате экструзии магматических пород, когда лава из вулкана быстро остывает. Обсидиан твердый, хрупкий и аморфный, поэтому при изломе у него очень острые края.</AB_Obsidianstone.description>
+  
+  <AB_SmoothedObsidian.label>гладкий обсидиан</AB_SmoothedObsidian.label>
+  <AB_SmoothedObsidian.description>Вулканическое стекло природного происхождения, образовавшееся в результате экструзии магматических пород, когда лава из вулкана быстро остывает. Обсидиан твердый, хрупкий и аморфный, поэтому при изломе у него очень острые края.</AB_SmoothedObsidian.description>
+
+  <AB_ChunkObsidian.description>Обломок камня. Можно разрезать на полезные блоки.</AB_ChunkObsidian.description>
+  <AB_ChunkObsidian.label>обломок обсидиана</AB_ChunkObsidian.label>
+  
+  <AB_BlocksObsidian.label>блоки обсидиана</AB_BlocksObsidian.label>
+  <AB_BlocksObsidian.description>Цельные блоки обсидиана.</AB_BlocksObsidian.description>
+  <AB_BlocksObsidian.stuffProps.stuffAdjective>обсидиана</AB_BlocksObsidian.stuffProps.stuffAdjective>
+  
+  <AB_Mudstone.label>глиняный камень</AB_Mudstone.label>
+  <AB_Mudstone.description>Мелкозернистая осадочная порода состоящая преимущественно из глины. Камень выглядит как затвердевшая глина, в зависимости от обстоятельств, при которых он образовался, на нем могут быть трещины или разломы.</AB_Mudstone.description>
+  
+  <AB_SmoothedMudstone.label>полированный глиняный камень</AB_SmoothedMudstone.label>
+  <AB_SmoothedMudstone.description>Мелкозернистая осадочная порода состоящая преимущественно из глины. Камень выглядит как затвердевшая глина, в зависимости от обстоятельств, при которых он образовался, на нем могут быть трещины или разломы.</AB_SmoothedMudstone.description>
+  
+  <AB_ChunkMudstone.description>Обломок камня. Можно разрезать на полезные блоки.</AB_ChunkMudstone.description>
+  <AB_ChunkMudstone.label>обломок глиняного камня</AB_ChunkMudstone.label>
+  
+  <AB_BlocksMudstone.label>блоки глиняного камня</AB_BlocksMudstone.label>
+  <AB_BlocksMudstone.description>Цельные блоки глиняного камня.</AB_BlocksMudstone.description>
+  <AB_BlocksMudstone.stuffProps.stuffAdjective>глиняного камня</AB_BlocksMudstone.stuffProps.stuffAdjective>
+  
+  <AB_SlimeStone.label>твердая слизь</AB_SlimeStone.label>
+  <AB_SlimeStone.description>Затвердевшие отложения слизи. Не очень полезно...</AB_SlimeStone.description>
+  
+  <AB_SmoothedSlimeStone.label>полированная слизь</AB_SmoothedSlimeStone.label>
+  <AB_SmoothedSlimeStone.description>Затвердевшие отложения слизи. Не очень полезно...</AB_SmoothedSlimeStone.description>
+  
+  <AB_ChunkSlimeStone.label>обломок твердой слизи</AB_ChunkSlimeStone.label>
+  <AB_ChunkSlimeStone.description>Затвердевшие отложения слизи. Не очень полезно... Может быть, его можно разрезать на маленькие кусочки, а потом... съесть. Фу.</AB_ChunkSlimeStone.description>
+  
+  <GU_AncientMetals.label>древний металл</GU_AncientMetals.label>
+  <GU_AncientMetals.description>Эти стены находятся здесь уже давно. Их можно добыть, чтобы получить куски стали.</GU_AncientMetals.description>
+  
+  <AB_SmoothedAncientMetals.label>гладкий древний металл</AB_SmoothedAncientMetals.label>
+  <AB_SmoothedAncientMetals.description>Эти стены находятся здесь уже давно. Их можно добыть, чтобы получить куски стали.</AB_SmoothedAncientMetals.description>
+</LanguageData>

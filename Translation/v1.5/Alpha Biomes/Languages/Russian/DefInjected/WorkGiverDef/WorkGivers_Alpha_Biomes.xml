@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\WorkGiverDefs\WorkGivers.xml-->
+  <AB_DoBillsSmelter.label>работать с экзотической плавильней</AB_DoBillsSmelter.label>
+  <AB_DoBillsSmelter.verb>плавить, используя</AB_DoBillsSmelter.verb>
+  <AB_DoBillsSmelter.gerund>плавить, используя</AB_DoBillsSmelter.gerund>
+  
+  <AB_DoBillsCook.label>готовить блюда на газовой плите</AB_DoBillsCook.label>
+  <AB_DoBillsCook.verb>готовить</AB_DoBillsCook.verb>
+  <AB_DoBillsCook.gerund>готовить, используя</AB_DoBillsCook.gerund>
+  
+  <AB_CoreDrill.label>выполнять бурение</AB_CoreDrill.label>
+  <AB_CoreDrill.verb>бурить, используя</AB_CoreDrill.verb>
+  <AB_CoreDrill.gerund>бурить, используя</AB_CoreDrill.gerund>
+</LanguageData>

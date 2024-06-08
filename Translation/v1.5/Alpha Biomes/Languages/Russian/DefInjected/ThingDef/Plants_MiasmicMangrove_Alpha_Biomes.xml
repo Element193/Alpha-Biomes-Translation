@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_MiasmicMangrove.xml-->
+  <AB_MangroveTree.label>мангровое дерево</AB_MangroveTree.label>
+  <AB_MangroveTree.description>Дерево, растущее в соленой воде. Оно имеет сложную систему фильтрации солей и корневую систему, чтобы выживать в соленой воде, и условиях низкого содержания кислорода в заболоченной грязи.</AB_MangroveTree.description>
+  
+  <AB_ParasiticMangrove.label>мангровые заросли</AB_ParasiticMangrove.label>
+  <AB_ParasiticMangrove.description>Странное красочное растение, которое получает питательные вещества из мангровых деревьев. Его корни покрыты колючками, которые встраиваются в корневую систему мангровых деревьев, действуя как паразитический организм. Его сок слегка ядовит для многих животных, но приматы не подвержены его воздействию. Можно использовать в качестве экстренного лекарства.</AB_ParasiticMangrove.description>
+  
+  <AB_MangrovePalm.label>мангровая пальма</AB_MangrovePalm.label>
+  <AB_MangrovePalm.description>Пальма, адаптированная к условиям мангровых зарослей.</AB_MangrovePalm.description>
+</LanguageData>

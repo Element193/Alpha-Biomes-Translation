@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_OcularForest.xml-->
+  <AB_AlienGrass.label>окулярная трава</AB_AlienGrass.label>
+  <AB_AlienGrass.description>Эта трава совершенно чужеродная, вероятно, даже не на 100% состоящая из углерода. Не очень съедобна для местных обитателей.</AB_AlienGrass.description>
+  
+  <AB_RedLeaves.label>окулярные заросли</AB_RedLeaves.label>
+  <AB_RedLeaves.description>Это растение совершенно чужеродно, вероятно, даже не на 100% состоящее из углерода. Не очень съедобно для местных обитателей.</AB_RedLeaves.description>
+  
+  <AB_RedPlantsTall.label>окулярные заросли</AB_RedPlantsTall.label>
+  <AB_RedPlantsTall.description>Это растение совершенно чужеродно, вероятно, даже не на 100% состоящее из углерода. Не очень съедобно для местных обитателей.</AB_RedPlantsTall.description>
+  
+  <AB_AlienTree.label>окулярное дерево</AB_AlienTree.label>
+  <AB_AlienTree.description>Это дерево совершенно чужеродно, вероятно, даже не на 100% состоящее из углерода. Похоже, что оно с трудом выживает в этой среде. С дерева свисают странные плоды, напоминающие глазные яблоки, скорее всего они не съедобны. Его древесина излучает сильный сладкий аромат, возможно, она может пригодится.</AB_AlienTree.description>
+  
+  <AB_HalfAlienTree.label>зараженный дуб</AB_HalfAlienTree.label>
+  <AB_HalfAlienTree.description>Похоже, что странная инфекция превращает этот дуб в окулярное дерево. Ствол и листья покрываются красными пульсирующими наростами, которые, похоже, не способны выжить в этой местности. Это дерево может быть полезно для добычи небольшого количества древесины.</AB_HalfAlienTree.description>
+  
+  <AB_TentacularPlant.label>щупальцевидная аберрация</AB_TentacularPlant.label>
+  <AB_TentacularPlant.description>Это растение совершенно чужеродно. Синие плоды на конце каждой щупальцевидной ветке время от времени издают жуткий дребезжащий звук.</AB_TentacularPlant.description>
+  
+  <AB_GlobularPlant.label>шаровая аберрация</AB_GlobularPlant.label>
+  <AB_GlobularPlant.description>Розовое шаровидное растение, поддерживаемое сетью шишковатых ветвей. Его древесина постоянно выделяет красноватый сок, который отпугивает насекомых.</AB_GlobularPlant.description>
+  
+  <AB_BloodBouquet.label>кровавый букет</AB_BloodBouquet.label>
+  <AB_BloodBouquet.description>Колючее растение, с верхушки которого свисают странные плоды, которые твердые, как сам ствол, и так-же покрыты шипами.</AB_BloodBouquet.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_TarPits.xml-->
+  <AB_AsphaltBridge.label>асфальтный мост</AB_AsphaltBridge.label>
+  <AB_AsphaltBridge.description>Плоский деревянный настил на сваях, который можно располагать над водой. На мостах можно строить лишь лёгкие сооружения. Будьте осторожны: если мост рухнет, то вместе с ним рухнет и то, что на нём стоит.</AB_AsphaltBridge.description>
+  
+  <AB_LushGrass.label>пышная трава</AB_LushGrass.label>
+  <AB_LushGrass.tools.0.label>земля</AB_LushGrass.tools.0.label>
+  
+  <AB_GrassySand.label>травянистый песок</AB_GrassySand.label>
+  <AB_GrassySand.tools.0.label>песок</AB_GrassySand.tools.0.label>
+  
+  <AB_ParchedEarth.label>пересохшая грязь</AB_ParchedEarth.label>
+  <AB_ParchedEarth.tools.0.label>грязь</AB_ParchedEarth.tools.0.label>
+  
+  <AB_TarMud.label>смолистая грязь</AB_TarMud.label>
+  <AB_TarMud.tools.0.label>грязь</AB_TarMud.tools.0.label>
+  
+  <AB_ArtificialTar.label>смоляная лужа</AB_ArtificialTar.label>
+  
+  <AB_Tar.tools.0.label>вода</AB_Tar.tools.0.label>
+  <AB_Tar.label>смола</AB_Tar.label>
+</LanguageData>

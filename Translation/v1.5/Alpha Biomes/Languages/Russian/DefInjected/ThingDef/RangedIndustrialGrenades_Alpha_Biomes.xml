@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Misc\Weapons\RangedIndustrialGrenades.xml-->
+  <AB_WeaponPoisonDart.label>ядовитый дротик</AB_WeaponPoisonDart.label>
+  <AB_WeaponPoisonDart.description>Этот маленький дротик наполнен концентрированной жидкостью из дребезжащего гриба. Это чрезвычайно сильный нейротоксин, вызывающий мгновенный паралич и в конечном счете смерть.</AB_WeaponPoisonDart.description>
+  <AB_WeaponPoisonDart.verbs.0.label>кинуть ядовитый дротик</AB_WeaponPoisonDart.verbs.0.label>
+  
+  <AB_WeaponPoisonDartProjectile.label>ядовитый дротик</AB_WeaponPoisonDartProjectile.label>
+</LanguageData>

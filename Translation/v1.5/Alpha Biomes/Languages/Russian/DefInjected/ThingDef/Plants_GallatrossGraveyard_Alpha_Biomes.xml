@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_GallatrossGraveyard.xml-->
+  <AB_TangleTea.label>чайный цветок</AB_TangleTea.label>
+  <AB_TangleTea.description>Это странное растение, похоже инопланетного происхождения. Кажется, оно не пригодно для употребления в пищу. Название намекает на форму чайного пакетика его цветов, а также на тот факт, что сок представляет собой очень липкое вещество.</AB_TangleTea.description>
+  
+  <AB_EuphorbiaRimworldia.label>эуфорбия</AB_EuphorbiaRimworldia.label>
+  <AB_EuphorbiaRimworldia.description>Растение, обычно называемое молочаем. Оно адаптировалось к засушливому климату и хранит много воды внутри покрытых шипами листьев.</AB_EuphorbiaRimworldia.description>
+  
+  <AB_DeadBowerTree.label>мертвое дерево</AB_DeadBowerTree.label>
+  <AB_DeadBowerTree.description>Несмотря на распространенное название, это дерево не совсем мертвое, оно приспособилось к выживанию в засухе. Каждые несколько десятилетий дерево выпускает огромные листья, которые получают энергию в процессе фотосинтеза, энергия накапливается в химических столбиках коричневого цвета, которые действуют как природные батарейки. Дерево медленно расходует эту энергию в течение последующих лет, выпуская новые листья только тогда, когда она исчерпана.</AB_DeadBowerTree.description>
+</LanguageData>

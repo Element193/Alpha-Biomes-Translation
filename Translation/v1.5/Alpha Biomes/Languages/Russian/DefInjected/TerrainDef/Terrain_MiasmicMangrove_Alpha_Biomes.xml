@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_MiasmicMangrove.xml-->
+  <AB_FertileMud.label>плодородная грязь</AB_FertileMud.label>
+  <AB_FertileMud.tools.0.label>грязь</AB_FertileMud.tools.0.label>
+  
+  <AB_FertileMarsh.label>плодородное болото</AB_FertileMarsh.label>
+  <AB_FertileMarsh.tools.0.label>вода</AB_FertileMarsh.tools.0.label>
+  <AB_FertileMarsh.tools.1.label>грязь</AB_FertileMarsh.tools.1.label>
+</LanguageData>

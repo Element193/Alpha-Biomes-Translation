@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_MycoticJungle.xml-->
+  <AB_Glowstool.label>сияющий гриб</AB_Glowstool.label>
+  <AB_Glowstool.description>Небольшой гриб сине-зеленого цвета, часто встречается в пещерах. Пахнет как старая грязная тряпка из желудка полусгнившего муффало, однако в приготовленном виде его вкус приятно удивляет. Этот гриб приспособился к солнечному свету, но при сборе дает очень мало съедобных шляпок.</AB_Glowstool.description>
+  
+  <AB_LilacBeacon.label>сиреневый маячок</AB_LilacBeacon.label>
+  <AB_LilacBeacon.description>Высокий гриб с ярко-фиолетовой шляпкой. В отличии от других грибов он гораздо питательнее, но более тяжелый для желудка. Этот гриб приспособился к солнечному свету, но при сборе дает очень мало съедобных шляпок.</AB_LilacBeacon.description>
+  
+  <AB_WitchesOyster.label>ведьмины вешенки</AB_WitchesOyster.label>
+  <AB_WitchesOyster.description>Небольшая разветвленная грибная колония с резким ароматом. Из ведьминой вешенки получаются шляпки, которые довольно долго портятся.</AB_WitchesOyster.description>
+  
+  <AB_AgaricusDomeCap.label>купольный агарикус</AB_AgaricusDomeCap.label>
+  <AB_AgaricusDomeCap.description>Все в этом грибе кричит: "Я токсичен, держись от меня подальше". Конечно же, это не мешает некоторым предприимчивым людям употреблять его в качестве наркотика. Купольный агарикус это психотропный гриб, и его следует употреблять с особой осторожностью, если вообще употреблять.</AB_AgaricusDomeCap.description>
+  
+  <AB_Agarilux.label>агарилюкс</AB_Agarilux.label>
+  <AB_Agarilux.description>Фиолетовый гриб. Его размер и светящиеся выступы делают его красивым. Этот гриб приспособился к солнечному свету, но при сборе дает очень мало съедобных шляпок.</AB_Agarilux.description>
+  
+  <AB_GiantAgarilux.label>большой фиолетовый гриб</AB_GiantAgarilux.label>
+  <AB_GiantAgarilux.description>Большой гриб фиолетового цвета. Его размер и светящиеся выступы делают его красивым. Его ножка по твердости подобна древесине.</AB_GiantAgarilux.description>
+  
+  <AB_ArbuscularMycorrhiza.label>арбускулярная микориза</AB_ArbuscularMycorrhiza.label>
+  <AB_ArbuscularMycorrhiza.description>Симбиоз гриба и растения. Этот конкретный организм является высокоразвитым, и почти слился в одно существо с растением. Из его ствола можно собрать небольшое количество древесины.</AB_ArbuscularMycorrhiza.description>
+  
+  <AB_DribblingCap.label>сочащийся гриб</AB_DribblingCap.label>
+  <AB_DribblingCap.description>Огромный гриб розового цвета, из которого постоянно сочится резкое, похожее на смолу вещество. Это вещество является мощным нейротоксином, который можно использовать в качестве оружия.</AB_DribblingCap.description>
+  
+  <AB_RecurvedStropharia.label>изогнутая строфария</AB_RecurvedStropharia.label>
+  <AB_RecurvedStropharia.description>Большой гриб сероватого цвета. Его размер и светящиеся выступы делают его красивым. Его ножка по твердости подобна древесине.</AB_RecurvedStropharia.description>
+  
+  <AB_SlimyPholiota.label>слизистая лускатка</AB_SlimyPholiota.label>
+  <AB_SlimyPholiota.description>Гриб голубовато-розового цвета, выделяющий слизистую субстанцию, которая привлекает насекомых. Слизь парализует насекомых, а гриб использует их в качестве удобрения. Как ни странно, слизистая субстанция придает грибу очень насыщенный вкус, и его можно употреблять даже в сыром виде.</AB_SlimyPholiota.description>
+  
+  <AB_GlowingAgarilux.label>сияющий агарилюкс</AB_GlowingAgarilux.label>
+  <AB_GlowingAgarilux.description>Огромный гриб, сияющий в темноте слабым фиолетовым свечением. Его размер и светящиеся выступы делают его красивым. Этот гриб приспособился к солнечному свету, но при сборе дает очень мало съедобных шляпок.</AB_GlowingAgarilux.description>
+  
+  <AB_Bryolux.label>бриолюкс</AB_Bryolux.label>
+  <AB_Bryolux.description>Голубой мох, обычно встречающийся в глубоких темных пещерах. Он липкий, его запутанные волокна замедляют передвижение. Это растение приспособлено к солнечному свету.</AB_Bryolux.description>
+  
+  <AB_AgariluxPrime.label>Агарилюкс Прайм</AB_AgariluxPrime.label>
+  <AB_AgariluxPrime.description>Невероятно большой агарилюкс. Эта микотическая колония прекрасно приспособилась к окружающей среде, выделяя огромные облака чрезвычайно опасных спор. Эти споры атакуют как другие грибы, так и бродячих животных, и после того, как они неизбежно задыхаются, Агарилюкс Прайм вытягивает хищные отростки, чтобы питаться их гниющими трупами.</AB_AgariluxPrime.description>
+</LanguageData>

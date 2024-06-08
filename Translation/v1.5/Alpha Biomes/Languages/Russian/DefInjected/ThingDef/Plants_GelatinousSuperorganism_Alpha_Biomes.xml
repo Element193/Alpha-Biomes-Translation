@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_GelatinousSuperorganism.xml-->
+  <AB_Slimecasia.label>слизеказия</AB_Slimecasia.label>
+  <AB_Slimecasia.description>На первый взгляд это самостоятельное растение, но его корни сливаются с частью суперорганизма.</AB_Slimecasia.description>
+  
+  <AB_SlimyFern.label>слизистый папоротник</AB_SlimyFern.label>
+  <AB_SlimyFern.description>На первый взгляд это самостоятельное растение, но его корни сливаются с частью суперорганизма.</AB_SlimyFern.description>
+  
+  <AB_TallSlimyGrass.label>высокая слизистая трава</AB_TallSlimyGrass.label>
+  <AB_TallSlimyGrass.description>Дикая высокая трава. Заметно замедляет каждого, кто идёт по ней.</AB_TallSlimyGrass.description>
+  
+  <AB_SlimyTree.label>слизистое дерево</AB_SlimyTree.label>
+  <AB_SlimyTree.description>Это дерево кажется не совсем самостоятельным. При рассмотрении можно увидеть, что его корни органично сливаются с частью суперорганизма.</AB_SlimyTree.description>
+  
+  <AB_LargeSlimyTree.label>большое слизистое дерево</AB_LargeSlimyTree.label>
+  <AB_LargeSlimyTree.description>Это дерево кажется не совсем самостоятельным. При рассмотрении можно увидеть, что его корни органично сливаются с частью суперорганизма.</AB_LargeSlimyTree.description>
+</LanguageData>

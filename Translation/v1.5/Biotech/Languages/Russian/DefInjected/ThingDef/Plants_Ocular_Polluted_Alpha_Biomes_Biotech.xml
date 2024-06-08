@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Mods\Biotech\Defs\ThingDefs_Plants\Plants_Ocular_Polluted.xml-->
+  <AB_EyeGrass.label>цветущая окулярная трава</AB_EyeGrass.label>
+  <AB_EyeGrass.description>Это что... глаза?</AB_EyeGrass.description>
+  
+  <AB_AlienTree_Polluted.label>мутировавшее окулярное дерево</AB_AlienTree_Polluted.label>
+  <AB_AlienTree_Polluted.description>Это глазное дерево пострадало от загрязнения и странным образом мутировало. Похоже, что в таких условиях оно процветает.</AB_AlienTree_Polluted.description>
+  
+  <AB_GlobularPlant_Polluted.label>загрязненная шаровая аберрация</AB_GlobularPlant_Polluted.label>
+  <AB_GlobularPlant_Polluted.description>На эту аберрацию повлияло загрязнение окружающей среды, и она странным образом мутировала. Похоже, что в таких условиях она действительно процветает.</AB_GlobularPlant_Polluted.description>
+</LanguageData>

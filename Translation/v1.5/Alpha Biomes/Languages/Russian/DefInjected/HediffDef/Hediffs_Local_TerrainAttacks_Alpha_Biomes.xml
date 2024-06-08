@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\HediffDefs\Hediffs_Local_TerrainAttacks.xml-->
+  <AB_SlimeInEyes.label>глазная слизь</AB_SlimeInEyes.label>
+  <AB_SlimeInEyes.description>Ослепляющая слизь в глазах.</AB_SlimeInEyes.description>
+  <AB_SlimeInEyes.labelNoun>слизь</AB_SlimeInEyes.labelNoun>
+  <AB_SlimeInEyes.battleStateLabel>слепота</AB_SlimeInEyes.battleStateLabel>
+</LanguageData>

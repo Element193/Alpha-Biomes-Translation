@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Buildings\Buildings_Ocular.xml-->
+  <AB_AlcyoniteSolar.label>альционитная солнечная батарея</AB_AlcyoniteSolar.label>
+  <AB_AlcyoniteSolar.description>Использует солнечные элементы из альционита для преобразования солнечной энергии в электрический ток. Повышает эффективность, если находится в красном тумане. Не работает в темноте и от искусственного освещения.</AB_AlcyoniteSolar.description>
+
+  <AB_OcularGasSpewer.label>окулярный генератор</AB_OcularGasSpewer.label>
+  <AB_OcularGasSpewer.description>Собирает атмосферные газы и генерирует облако окулярного дыма. Используется для создания дымовой завесы, которая затрудняет стрельбу, при этом требует небольшое количество энергии.</AB_OcularGasSpewer.description>
+  
+  <AB_AlienComplianceCenter.label>инопланетный излучатель</AB_AlienComplianceCenter.label>
+  <AB_AlienComplianceCenter.description>Экспериментальное устройство, излучающее странные волны, которые заставляют всех полюбить инопланетную погоду.</AB_AlienComplianceCenter.description>
+</LanguageData>

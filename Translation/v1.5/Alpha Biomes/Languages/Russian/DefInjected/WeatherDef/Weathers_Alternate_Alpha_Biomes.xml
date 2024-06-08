@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\WeatherDefs\Weathers_Alternate.xml-->
+  <AB_ForsakenNight_Alternate.label>темный туман</AB_ForsakenNight_Alternate.label>
+  <AB_ForsakenNight_Alternate.description>Неестественная тьма, проникающая в самую душу. Даже днем света очень мало, поэтому освещение будет крайне необходимо. Ночи будут по-настоящему темными.</AB_ForsakenNight_Alternate.description>
+  
+  <AB_ForsakenRainyNight_Alternate.label>темный дождь</AB_ForsakenRainyNight_Alternate.label>
+  <AB_ForsakenRainyNight_Alternate.description>Неестественная тьма, проникающая в самую душу. С потемневшего неба начал капать ледяной дождь.</AB_ForsakenRainyNight_Alternate.description>
+  
+  <AB_ForsakenThunderstorm_Alternate.label>темная гроза</AB_ForsakenThunderstorm_Alternate.label>
+  <AB_ForsakenThunderstorm_Alternate.description>Неестественная тьма, проникающая в самую душу. А теперь еще и с сухой грозой! Разве это не здорово?</AB_ForsakenThunderstorm_Alternate.description>
+</LanguageData>

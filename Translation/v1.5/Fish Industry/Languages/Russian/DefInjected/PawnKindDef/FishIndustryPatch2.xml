@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--\Grabbed_Defs_from_patches\rikiki_fishindustry\FishIndustryPatch1.xml-->
+  <AB_Slimefish.label>желейная рыба</AB_Slimefish.label>
+  <AB_Slimefish.lifeStages.0.labelPlural>желейные рыбы</AB_Slimefish.lifeStages.0.labelPlural>
+  <AB_Slimefish.lifeStages.0.labelMale>желейная рыба</AB_Slimefish.lifeStages.0.labelMale>
+  <AB_Slimefish.lifeStages.0.labelFemale>желейная рыба</AB_Slimefish.lifeStages.0.labelFemale>
+  <AB_Slimefish.lifeStages.0.labelMalePlural>желейные рыбы</AB_Slimefish.lifeStages.0.labelMalePlural>
+  <AB_Slimefish.lifeStages.0.labelFemalePlural>желейные рыбы</AB_Slimefish.lifeStages.0.labelFemalePlural>
+  
+  <AB_Jellyfungus.label>грибная медуза</AB_Jellyfungus.label>
+  <AB_Jellyfungus.lifeStages.0.labelPlural>грибные медузы</AB_Jellyfungus.lifeStages.0.labelPlural>
+  <AB_Jellyfungus.lifeStages.0.labelMale>грибная медуза</AB_Jellyfungus.lifeStages.0.labelMale>
+  <AB_Jellyfungus.lifeStages.0.labelFemale>грибная медуза</AB_Jellyfungus.lifeStages.0.labelFemale>
+  <AB_Jellyfungus.lifeStages.0.labelMalePlural>грибные медузы</AB_Jellyfungus.lifeStages.0.labelMalePlural>
+  <AB_Jellyfungus.lifeStages.0.labelFemalePlural>грибные медузы</AB_Jellyfungus.lifeStages.0.labelFemalePlural>
+  
+  <AB_OcularFish.label>окулярная рыба</AB_OcularFish.label>
+  <AB_OcularFish.lifeStages.0.labelPlural>окулярные рыбы</AB_OcularFish.lifeStages.0.labelPlural>
+  <AB_OcularFish.lifeStages.0.labelMale>окулярная рыба</AB_OcularFish.lifeStages.0.labelMale>
+  <AB_OcularFish.lifeStages.0.labelFemale>окулярная рыба</AB_OcularFish.lifeStages.0.labelFemale>
+  <AB_OcularFish.lifeStages.0.labelMalePlural>окулярные рыбы</AB_OcularFish.lifeStages.0.labelMalePlural>
+  <AB_OcularFish.lifeStages.0.labelFemalePlural>окулярные рыбы</AB_OcularFish.lifeStages.0.labelFemalePlural>
+  
+  <AB_PolarEel.label>полярный угорь</AB_PolarEel.label>
+  <AB_PolarEel.lifeStages.0.labelPlural>полярные угри</AB_PolarEel.lifeStages.0.labelPlural>
+  <AB_PolarEel.lifeStages.0.labelMale>полярный угорь</AB_PolarEel.lifeStages.0.labelMale>
+  <AB_PolarEel.lifeStages.0.labelFemale>полярный угорь</AB_PolarEel.lifeStages.0.labelFemale>
+  <AB_PolarEel.lifeStages.0.labelMalePlural>полярные угри</AB_PolarEel.lifeStages.0.labelMalePlural>
+  <AB_PolarEel.lifeStages.0.labelFemalePlural>полярные угри</AB_PolarEel.lifeStages.0.labelFemalePlural>
+  
+  <AB_Spiderfish.label>рыба-паук</AB_Spiderfish.label>
+  <AB_Spiderfish.lifeStages.0.labelPlural>рыбы-пауки</AB_Spiderfish.lifeStages.0.labelPlural>
+  <AB_Spiderfish.lifeStages.0.labelMale>рыба-паук</AB_Spiderfish.lifeStages.0.labelMale>
+  <AB_Spiderfish.lifeStages.0.labelFemale>рыба-паук</AB_Spiderfish.lifeStages.0.labelFemale>
+  <AB_Spiderfish.lifeStages.0.labelMalePlural>рыбы-пауки</AB_Spiderfish.lifeStages.0.labelMalePlural>
+  <AB_Spiderfish.lifeStages.0.labelFemalePlural>рыбы-пауки</AB_Spiderfish.lifeStages.0.labelFemalePlural>
+  
+  <AB_Spinyfish.label>лангуст</AB_Spinyfish.label>
+  <AB_Spinyfish.lifeStages.0.labelPlural>лангусты</AB_Spinyfish.lifeStages.0.labelPlural>
+  <AB_Spinyfish.lifeStages.0.labelMale>лангуст</AB_Spinyfish.lifeStages.0.labelMale>
+  <AB_Spinyfish.lifeStages.0.labelFemale>лангуст</AB_Spinyfish.lifeStages.0.labelFemale>
+  <AB_Spinyfish.lifeStages.0.labelMalePlural>лангусты</AB_Spinyfish.lifeStages.0.labelMalePlural>
+  <AB_Spinyfish.lifeStages.0.labelFemalePlural>лангусты</AB_Spinyfish.lifeStages.0.labelFemalePlural>
+  
+  <AB_ForsakenAnglerfish.label>морской удильщик</AB_ForsakenAnglerfish.label>
+  <AB_ForsakenAnglerfish.lifeStages.0.labelPlural>морские удильщики</AB_ForsakenAnglerfish.lifeStages.0.labelPlural>
+  <AB_ForsakenAnglerfish.lifeStages.0.labelMale>морской удильщик</AB_ForsakenAnglerfish.lifeStages.0.labelMale>
+  <AB_ForsakenAnglerfish.lifeStages.0.labelFemale>морской удильщик</AB_ForsakenAnglerfish.lifeStages.0.labelFemale>
+  <AB_ForsakenAnglerfish.lifeStages.0.labelMalePlural>морские удильщики</AB_ForsakenAnglerfish.lifeStages.0.labelMalePlural>
+  <AB_ForsakenAnglerfish.lifeStages.0.labelFemalePlural>морские удильщики</AB_ForsakenAnglerfish.lifeStages.0.labelFemalePlural>
+</LanguageData>

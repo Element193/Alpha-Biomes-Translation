@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TaleDefs\Tales_Incident.xml-->
+  <AB_AcidRainTale.label>кислотный дождь</AB_AcidRainTale.label>
+  <AB_AcidRainTale.rulePack.rulesStrings>
+		<li>tale_noun->как кислотный дождь проходит возле [PAWN_nameDef] и [Community]</li>
+		<li>tale_noun->как облака с едким запахом проливают кислоту возле [PAWN_nameDef] и [Community]</li>
+		<li>image->зловещее небо, [circumstance_group]</li>
+		<li>image->воздух имеет едкий запах и [circumstance_group]</li>
+		<li>image->земля мягко обжигает и [circumstance_group]</li>
+		<li>image->поля мертвых растений с обгоревшими листьями, [circumstance_group]</li>
+		<li>image->[Quantity_adjphrase] могилы [circumstance_group]</li>
+		<li>circumstance_phrase->без жизненных признаков</li>
+		<li>circumstance_phrase->укрывается плотиной едкой воды</li>
+		<li>circumstance_phrase->располагается в виде узора, который наводит на мысль гниющих костей</li>
+		<li>circumstance_phrase->ждет окончания кислотного дождя</li>
+		<li>desc_sentence->[PAWN_nameDef] лежит на земле, [PAWN_possessive] тело наполовину расплавлено и повернуто под необычным углом.</li>
+		<li>desc_sentence->[PAWN_nameDef] скрывается возле [TerrainFeature], наблюдая [AdjectiveAngsty] вид.</li>
+		<li>desc_sentence->[PAWN_nameDef] шокировано смотрит с частично расплавленными глазами.</li>
+		<li>desc_sentence->[PAWN_nameDef] Спокойно отдыхает со слоем пота на лице [PAWN_possessive].</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] лежат на земле, плоть которых сожжена кислотой.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] лежат на земле, плоть которых растворена кислотой.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] неуверенно передвигаются из-за боли от кислотных ожогов.</li>
+  </AB_AcidRainTale.rulePack.rulesStrings>
+</LanguageData>

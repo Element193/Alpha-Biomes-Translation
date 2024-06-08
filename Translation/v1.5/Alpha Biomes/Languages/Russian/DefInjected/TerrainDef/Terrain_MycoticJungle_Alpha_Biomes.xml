@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_MycoticJungle.xml-->
+  <AB_MycoticSoil.label>мицелий</AB_MycoticSoil.label>
+  <AB_MycoticSoil.tools.0.label>земля</AB_MycoticSoil.tools.0.label>
+  
+  <AB_MycoticSoilRich.label>плодородный мицелий</AB_MycoticSoilRich.label>
+  <AB_MycoticSoilRich.tools.0.label>земля</AB_MycoticSoilRich.tools.0.label>
+  
+  <AB_MycoticGrass.label>грибная трава</AB_MycoticGrass.label>
+</LanguageData>

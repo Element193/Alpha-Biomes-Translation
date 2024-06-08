@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\GameConditionDefs\GameConditions_Misc.xml-->
+  <AB_AcidRainCondition.label>кислотный дождь</AB_AcidRainCondition.label>
+  <AB_AcidRainCondition.description>Выбросы из близлежащих вулканов оседают в виде опасных кислотных дождей. Кислота оказывает негативное воздействие на флору и фауну, уничтожая все на открытой местности.</AB_AcidRainCondition.description>
+  <AB_AcidRainCondition.descriptionFuture>кислотный дождь начнется в области возле [map_definite] и будет ити [gameConditionDuration_duration], уничтожая все на открытой местности.</AB_AcidRainCondition.descriptionFuture>
+  <AB_AcidRainCondition.endMessage>Кислотный дождь постепенно стихает.</AB_AcidRainCondition.endMessage>
+  <AB_AcidRainCondition.letterText>Выбросы из близлежащих вулканов оседают в виде опасных кислотных дождей. Кислота оказывает негативное воздействие на флору и фауну, уничтожая все на открытой местности.</AB_AcidRainCondition.letterText>
+  
+  <AB_VolcanicHeatWave.label>вулканическая жара</AB_VolcanicHeatWave.label>
+  <AB_VolcanicHeatWave.description>Тепло от магматических озер испепеляет этот регион. Большие шлейфы перегретого воздуха поднимаются из лавы, нагревая окрестности и делая их едва ли пригодными для жизни.</AB_VolcanicHeatWave.description>
+</LanguageData>

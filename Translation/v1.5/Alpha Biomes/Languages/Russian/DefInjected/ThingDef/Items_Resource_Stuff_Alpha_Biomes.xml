@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Items\Items_Resource_Stuff.xml-->
+  <AB_AlcyoniteChunk.label>обломок альционита</AB_AlcyoniteChunk.label>
+  <AB_AlcyoniteChunk.description>Редкий обломок альционита. Это очень прочный драгоценный материал, способный легко резать сталь, но при этом податливый и обладает интересными пьезоэлектрическими свойствами.</AB_AlcyoniteChunk.description>
+  <AB_AlcyoniteChunk.stuffProps.stuffAdjective>альционита</AB_AlcyoniteChunk.stuffProps.stuffAdjective>
+  
+  <AB_CrystalWood.label>кристаллическая древесина</AB_CrystalWood.label>
+  <AB_CrystalWood.description>Хрупкие кристаллические волокна из замерзших растений.</AB_CrystalWood.description>
+  <AB_CrystalWood.stuffProps.stuffAdjective>кристаллической древесины</AB_CrystalWood.stuffProps.stuffAdjective>
+  <AB_CrystalWood.tools.0.label>кристаллическое бревно</AB_CrystalWood.tools.0.label>
+  
+  <GU_RedWood.label>красная древесина</GU_RedWood.label>
+  <GU_RedWood.description>Прочная древесина с красным оттенком от которой исходит сладкий аромат. Менее возгораема, но довольно неприятна на вид.</GU_RedWood.description>
+  <GU_RedWood.stuffProps.stuffAdjective>красной древесины</GU_RedWood.stuffProps.stuffAdjective>
+  <GU_RedWood.tools.0.label>красное бревно</GU_RedWood.tools.0.label>
+  
+  <AB_MushroomWoodLog.label>стебли грибов</AB_MushroomWoodLog.label>
+  <AB_MushroomWoodLog.description>Затвердевшие от времени стебли грибов, которые стали такими же твердыми как низкокачественная древесина. Не очень прочные и огнеопасны.</AB_MushroomWoodLog.description>
+  <AB_MushroomWoodLog.stuffProps.stuffAdjective>грибных стеблей</AB_MushroomWoodLog.stuffProps.stuffAdjective>
+  <AB_MushroomWoodLog.tools.0.label>грибной стебель</AB_MushroomWoodLog.tools.0.label>
+  
+  <AB_CrystallineMatrix.label>кристаллиновая матрица</AB_CrystallineMatrix.label>
+  <AB_CrystallineMatrix.description>Соединение экзотических инопланетных кристаллов, которые хорошо поддерживают постоянную температуру.</AB_CrystallineMatrix.description>
+  
+  <AB_CordaxResin.label>смола кордакса</AB_CordaxResin.label>
+  <AB_CordaxResin.description>Эта похожая на нектар жидкость используется плотоядным растением - воющим кордаксом для ловли насекомых. Она очень липкая и может быть переработана в эффективный герметик.</AB_CordaxResin.description>
+  
+  <AB_ProcessedResin.label>переработанная смола</AB_ProcessedResin.label>
+  <AB_ProcessedResin.description>Эта смола была получена из растения воющий кордакс. Она очень липкая и может быть переработана в эффективный герметик.</AB_ProcessedResin.description>
+  
+  <AB_AsphaltBucket.label>ведро асфальта</AB_AsphaltBucket.label>
+  <AB_AsphaltBucket.description>Асфальт, или битум, представляет собой липкую, черную и очень вязкую жидкость, почти полностью состоящую из нефти. Он присутствует в большинстве сырых нефтепродуктов и в некоторых природных месторождениях, таких как смоляные гейзеры.\n\nАсфальт можно использовать для строительства асфальтных дорог, которые значительно увеличивают скорость передвижения по труднопроходимой местности.</AB_AsphaltBucket.description>
+  
+  <AB_Propane.label>пропан</AB_Propane.label>
+  <AB_Propane.description>Универсальное топливо. Может быть преобразовано в химическое топливо или использовано для обогревателей или печей.</AB_Propane.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_FeraliskJungle.xml-->
+  <AB_RedBugloss.label>красный воловик</AB_RedBugloss.label>
+  <AB_RedBugloss.description>Одно из самых странных растений, генетически модифицированное для процветания во влажной и теплой среде.</AB_RedBugloss.description>
+  
+  <AB_Gomphoeria.label>гомфоерия</AB_Gomphoeria.label>
+  <AB_Gomphoeria.description>Необычайно высокое растение с ярко-розовыми ядовитыми ягодами. От него исходит странный запах гнилых фруктов, поэтому его считают абсолютно несъедобным.</AB_Gomphoeria.description>
+  
+  <AB_Aaklac.label>аклак</AB_Aaklac.label>
+  <AB_Aaklac.description>Большой редкий цветок, который обычно растет в самых густых джунглях. Его яркий цвет и приятный запах делают его популярным в садоводстве, если его можно достать из глубин джунглей.</AB_Aaklac.description>
+  
+  <AB_JungleTree.label>глубинное тропическое дерево</AB_JungleTree.label>
+  <AB_JungleTree.description>Это тропическое дерево неизвестного происхождения, возможно, оно родом из самых густых расщелин инопланетных джунглей.</AB_JungleTree.description>
+</LanguageData>

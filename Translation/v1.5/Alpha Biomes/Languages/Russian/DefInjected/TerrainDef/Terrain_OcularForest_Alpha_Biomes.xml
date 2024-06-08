@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_OcularForest.xml-->
+  <GU_AlienSand.label>красная почва</GU_AlienSand.label>
+  
+  <GU_RichAlienSand.label>плодородная красная почва</GU_RichAlienSand.label>
+  
+  <GU_AlienSandFine.label>мягкий красный песок</GU_AlienSandFine.label>
+  
+  <GU_RedWaterShallow.tools.0.label>вода</GU_RedWaterShallow.tools.0.label>
+  <GU_RedWaterShallow.label>красное мелководье</GU_RedWaterShallow.label>
+  
+  <GU_RedWaterDeep.tools.0.label>вода</GU_RedWaterDeep.tools.0.label>
+  <GU_RedWaterDeep.label>красная глубокая вода</GU_RedWaterDeep.label>
+  
+  <GU_MossyRed.label>пересохший красный песок</GU_MossyRed.label>
+</LanguageData>

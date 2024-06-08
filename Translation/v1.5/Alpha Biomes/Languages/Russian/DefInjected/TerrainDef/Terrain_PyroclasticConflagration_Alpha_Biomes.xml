@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_PyroclasticConflagration.xml-->
+  <AB_BlackPebbles.label>вулканический песок</AB_BlackPebbles.label>
+  
+  <AB_Obsidian.label>обсидиан</AB_Obsidian.label>
+  
+  <AB_SolidifiedLava.label>застывающая лава</AB_SolidifiedLava.label>
+  
+  <AB_HardenedGrass.label>твердая земля</AB_HardenedGrass.label>
+  
+  <AB_HardenedGrassFertile.label>плодородная вулканическая почва</AB_HardenedGrassFertile.label>
+  
+  <AB_LiquidLava.tools.0.label>вода</AB_LiquidLava.tools.0.label>
+  <AB_LiquidLava.label>лава</AB_LiquidLava.label>
+</LanguageData>

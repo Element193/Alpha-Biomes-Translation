@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Buildings\Buildings_Production.xml-->
+  <AB_CoreSampleDrill.label>геологический бур</AB_CoreSampleDrill.label>
+  <AB_CoreSampleDrill.description>Бур для сбора образцов позволяет добывать стандартные обломки, которые обычно не встречаются в этом месте. Для этого нужно бурить довольно глубоко, поэтому строительство обходится дорого.</AB_CoreSampleDrill.description>
+</LanguageData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\HediffDefs\Hediffs_Local_Infections.xml-->
+  <AB_SporesAllergy.label>аллергия</AB_SporesAllergy.label>
+  <AB_SporesAllergy.description>Реакция организма на воздушные споры или пыльцу растений. Затрудняет дыхание, но на время проходит при должном лечении.</AB_SporesAllergy.description>
+  <AB_SporesAllergy.stages.0.label>незначительная</AB_SporesAllergy.stages.0.label>
+  <AB_SporesAllergy.stages.1.label>значительная</AB_SporesAllergy.stages.1.label>
+  <AB_SporesAllergy.stages.2.label>сильная</AB_SporesAllergy.stages.2.label>
+  
+  <AB_AnimalSporesAllergy.label>аллергия</AB_AnimalSporesAllergy.label>
+  <AB_AnimalSporesAllergy.description>Реакция организма на воздушные споры или пыльцу растений. Затрудняет дыхание, но на время проходит при должном лечении.</AB_AnimalSporesAllergy.description>
+  <AB_AnimalSporesAllergy.stages.0.label>незначительная</AB_AnimalSporesAllergy.stages.0.label>
+  <AB_AnimalSporesAllergy.stages.1.label>значительная</AB_AnimalSporesAllergy.stages.1.label>
+  <AB_AnimalSporesAllergy.stages.2.label>сильная</AB_AnimalSporesAllergy.stages.2.label>
+  
+  <AB_Paralysis.label>нейротоксический паралич</AB_Paralysis.label>
+  <AB_Paralysis.description>Быстродействующий яд циркулирует по венам, парализуя мышцы. Проходит в течении некоторого времени.</AB_Paralysis.description>
+  <AB_Paralysis.stages.0.label>незначительный</AB_Paralysis.stages.0.label>
+  <AB_Paralysis.stages.1.label>замедляющий</AB_Paralysis.stages.1.label>
+  <AB_Paralysis.stages.2.label>останавливающий</AB_Paralysis.stages.2.label>
+  <AB_Paralysis.stages.3.label>парализующий</AB_Paralysis.stages.3.label>
+  
+  <AB_RavagingIntestinalParasites.label>модифицированные паразиты</AB_RavagingIntestinalParasites.label>
+  <AB_RavagingIntestinalParasites.description>Опасные генетически модифицированные паразиты. Если не лечить должным образом, они в конечном итоге убьют своего носителя.</AB_RavagingIntestinalParasites.description>
+  <AB_RavagingIntestinalParasites.stages.0.label>незначительные</AB_RavagingIntestinalParasites.stages.0.label>
+  <AB_RavagingIntestinalParasites.stages.1.label>значительные</AB_RavagingIntestinalParasites.stages.1.label>
+  <AB_RavagingIntestinalParasites.stages.2.label>экстремальные</AB_RavagingIntestinalParasites.stages.2.label>
+  
+  <AB_ViralAbasia.label>вирусная абазия</AB_ViralAbasia.label>
+  <AB_ViralAbasia.description>Искусственно созданный в качестве биологического оружия вирус, который поражает моторную кору мозга, в конечном итоге оставляя человека обездвиженным.</AB_ViralAbasia.description>
+  <AB_ViralAbasia.stages.0.label>незначительная</AB_ViralAbasia.stages.0.label>
+  <AB_ViralAbasia.stages.1.label>незначительная</AB_ViralAbasia.stages.1.label>
+  <AB_ViralAbasia.stages.2.label>значительная</AB_ViralAbasia.stages.2.label>
+  <AB_ViralAbasia.stages.3.label>сильная</AB_ViralAbasia.stages.3.label>
+  
+  <AB_BacterialGangrene.label>бактериальная гангрена</AB_BacterialGangrene.label>
+  <AB_BacterialGangrene.description>Быстро прогрессирующее бактериальное заболевание, вызывающее гангрену, при котором кожа постепенно чернеет и отпадает. При должном лечении болезнь может пройти за 3 дня. Даже при должной медицинской помощи существует риск потерять несколько конечностей.</AB_BacterialGangrene.description>
+  <AB_BacterialGangrene.stages.0.label>незначительная</AB_BacterialGangrene.stages.0.label>
+  <AB_BacterialGangrene.stages.1.label>значительная</AB_BacterialGangrene.stages.1.label>
+  <AB_BacterialGangrene.stages.2.label>сильная</AB_BacterialGangrene.stages.2.label>
+  
+  <AB_Gangrene.labelNounPretty>{0} в {1}</AB_Gangrene.labelNounPretty>
+  <AB_Gangrene.label>гангрена</AB_Gangrene.label>
+  <AB_Gangrene.description>Омертвление тканей тела из-за недостатка кровообращения или серьезной бактериальной инфекции.</AB_Gangrene.description>
+  <AB_Gangrene.comps.0.labelTendedWell>перевязано</AB_Gangrene.comps.0.labelTendedWell>
+  <AB_Gangrene.comps.0.labelTendedWellInner>обработано</AB_Gangrene.comps.0.labelTendedWellInner>
+  <AB_Gangrene.comps.0.labelSolidTendedWell>обработано</AB_Gangrene.comps.0.labelSolidTendedWell>
+  <AB_Gangrene.comps.2.permanentLabel>шрам от гангрены</AB_Gangrene.comps.2.permanentLabel>
+  <AB_Gangrene.injuryProps.destroyedLabel>Потеряно из-за гангрены</AB_Gangrene.injuryProps.destroyedLabel>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Mods\Biotech\Defs\ThingDefs_Plants\Plants_Crags_Polluted.xml-->
+  <AB_ToxicGamma.label>токсогамма</AB_ToxicGamma.label>
+  <AB_ToxicGamma.description>Огромное биолюминесцентное шаровидное растение. Может использоваться как естественный солнечный светильник, однако токсичная среда может быть не самой лучшей для растениеводства.</AB_ToxicGamma.description>
+  
+  <AB_PollutedStikehr.label>токсичный стикер</AB_PollutedStikehr.label>
+  <AB_PollutedStikehr.description>Гигантский инопланетный гриб, который светится в странном затухающем тумане. Этот гриб приспособился к загрязненной среде и содержит небольшое количество древесины.</AB_PollutedStikehr.description>
+</LanguageData>

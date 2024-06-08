@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Buildings\Buildings_Natural.xml-->
+  <AB_GallatrossBones.label>кости галлатроса</AB_GallatrossBones.label>
+  <AB_GallatrossBones.description>Грудная клетка огромного галлатроса.</AB_GallatrossBones.description>
+  
+  <AB_AncientGallatrossSkull.label>древний череп галлатроса</AB_AncientGallatrossSkull.label>
+  <AB_AncientGallatrossSkull.description>Череп огромного галлатроса. Только взгляните на его размер!</AB_AncientGallatrossSkull.description>
+  
+  <AB_AncientBone.label>древняя кость</AB_AncientBone.label>
+  <AB_AncientBone.description>Окаменелая кость огромного галлатроса.</AB_AncientBone.description>
+  
+  <AB_AncientBrokenBone.label>древняя раздробленная кость</AB_AncientBrokenBone.label>
+  <AB_AncientBrokenBone.description>Окаменелая кость огромного галлатроса.</AB_AncientBrokenBone.description>
+  
+  <AB_AncientVerticalBone.label>древние кости</AB_AncientVerticalBone.label>
+  <AB_AncientVerticalBone.description>Окаменелые кости огромного галлатроса.</AB_AncientVerticalBone.description>
+  
+  <AB_HugeGallatrossSkeleton.label>скелет огромного галлатроса</AB_HugeGallatrossSkeleton.label>
+  <AB_HugeGallatrossSkeleton.description>Окаменелые кости огромного галлатроса.</AB_HugeGallatrossSkeleton.description>
+  
+  <AB_AbandonedShipPart.label>покинутая часть корабля</AB_AbandonedShipPart.label>
+  <AB_AbandonedShipPart.description>Таинственный разбившийся кусок космического корабля. Вероятно, когда-то здесь было полно механоидов, но, похоже, он был заброшен на некоторое время. Возможно, его можно спасти для получения сырья.</AB_AbandonedShipPart.description>
+  
+  <AB_TarHole.label>смоляной гейзер</AB_TarHole.label>
+  <AB_TarHole.description>Естественное отверстие в земле, соединяющееся с подземным источником смолы. Через него периодически распыляется свежая смола.</AB_TarHole.description>
+  
+  <AB_BumbledroneHive.label>улей шмелей</AB_BumbledroneHive.label>
+  <AB_BumbledroneHive.description>Огромный курган из затвердевшей органической материи, связанный с обширным подземным ульем. Шмели периодически выходят из этого улья, чтобы собрать пищу для своей колонии. Окружающие улей шмели особенно агрессивны, поэтому лучше дать им немного пространства.</AB_BumbledroneHive.description>
+</LanguageData>

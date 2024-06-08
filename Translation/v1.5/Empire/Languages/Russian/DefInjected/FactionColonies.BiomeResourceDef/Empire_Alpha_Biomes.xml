@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--\Grabbed_Defs_from_patches\saakra_empire\EmpirePatch0.xml-->
+  <AB_FeraliskInfestedJungle.label>Зараженные джунгли</AB_FeraliskInfestedJungle.label>
+  <AB_MycoticJungle.label>Грибные джунгли</AB_MycoticJungle.label>
+  <AB_OcularForest.label>Окулярный лес</AB_OcularForest.label>
+  <AB_GelatinousSuperorganism.label>Желатиновый суперорганизм</AB_GelatinousSuperorganism.label>
+  <AB_GallatrossGraveyard.label>Долина костей</AB_GallatrossGraveyard.label>
+  <AB_MechanoidIntrusion.label>Механическая пустошь</AB_MechanoidIntrusion.label>
+  <AB_PropaneLakes.label>Пропановые озера</AB_PropaneLakes.label>
+  <AB_TarPits.label>Смоляная пустыня</AB_TarPits.label>
+  <AB_RockyCrags.label>Туманная пустошь</AB_RockyCrags.label>
+</LanguageData>

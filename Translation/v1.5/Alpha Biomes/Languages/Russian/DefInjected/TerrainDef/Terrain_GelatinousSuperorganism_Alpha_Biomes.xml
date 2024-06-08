@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_GelatinousSuperorganism.xml-->
+  <AB_Slime.label>твердая слизь</AB_Slime.label>
+  
+  <AB_RichSlime.label>плодородная твердая слизь</AB_RichSlime.label>
+  
+  <AB_SlimeGrass.label>слизистая земля</AB_SlimeGrass.label>
+  
+  <AB_SlimyMud.label>слизистая грязь</AB_SlimyMud.label>
+  <AB_SlimyMud.tools.0.label>слизь</AB_SlimyMud.tools.0.label>
+  
+  <AB_LiquidSlime.tools.0.label>вода</AB_LiquidSlime.tools.0.label>
+  <AB_LiquidSlime.label>мелководная слизь</AB_LiquidSlime.label>
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\WeatherDefs\Weathers.xml-->
+  <AB_RedFog.label>красный туман</AB_RedFog.label>
+  <AB_RedFog.description>Красный туман снижает точность оружия дальнего боя.</AB_RedFog.description>
+  
+  <AB_VolcanicAsh.label>вулканический пепел</AB_VolcanicAsh.label>
+  <AB_VolcanicAsh.description>Смесь частиц горных пород, минералов и стекла, выбрасываемых вулканом создает толстый атмосферный слой, который снижает точность стрельбы.</AB_VolcanicAsh.description>
+  
+  <AB_VolcanicAshRain.label>вулканический дождь</AB_VolcanicAshRain.label>
+  <AB_VolcanicAshRain.description>Смесь частиц горных пород, минералов и стекла, выбрасываемых вулканом создает толстый атмосферный слой, который оседает в виде дождя и снижает точность стрельбы.</AB_VolcanicAshRain.description>
+  
+  <AB_ForsakenNight.label>темный туман</AB_ForsakenNight.label>
+  <AB_ForsakenNight.description>Неестественная тьма, проникающая в самую душу. Даже днем света очень мало, поэтому освещение будет крайне необходимо. Ночи будут по-настоящему темными.</AB_ForsakenNight.description>
+  
+  <AB_ForsakenRainyNight.label>темный дождь</AB_ForsakenRainyNight.label>
+  <AB_ForsakenRainyNight.description>Неестественная тьма, проникающая в самую душу. С потемневшего неба начал капать ледяной дождь.</AB_ForsakenRainyNight.description>
+  
+  <AB_ForsakenThunderstorm.label>темная гроза</AB_ForsakenThunderstorm.label>
+  <AB_ForsakenThunderstorm.description>Неестественная тьма, проникающая в самую душу. А теперь еще и с сухой грозой! Разве это не здорово?</AB_ForsakenThunderstorm.description>
+  
+  <AB_AcidRainWeather.label>кислотный дождь</AB_AcidRainWeather.label>
+  <AB_AcidRainWeather.description>Выбросы токсичных газов из близлежащих вулканов оседают в виде опасных кислотных дождей. Кислотные дожди негативно влияют на флору и фауну, убивают насекомых и водные организмы. Кислотный дождь снижает точность дальнобойного оружия, гасит огонь и замедляет передвижение.</AB_AcidRainWeather.description>
+</LanguageData>

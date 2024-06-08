@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Mods\Biotech\Defs\ThingDefs_Plants\Plants_Meadows_Polluted.xml-->
+  <AB_ToxiGrass.label>токсическая трава</AB_ToxiGrass.label>
+  <AB_ToxiGrass.description>Лучше не есть это...</AB_ToxiGrass.description>
+  
+  <AB_GiantToxicFlower.label>большой токсоцвет</AB_GiantToxicFlower.label>
+  <AB_GiantToxicFlower.description>Гигантский цветок опасного ярко-розового цвета. Кажется, что он цветет постоянно. Его стебель можно срезать и использовать в качестве древесины.</AB_GiantToxicFlower.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\TerrainDefs\Terrain_ForsakenCrags.xml-->
+  <AB_ForsakenSand.label>темный песок</AB_ForsakenSand.label>
+  <AB_ForsakenSand.tools.0.label>земля</AB_ForsakenSand.tools.0.label>
+  
+  <AB_FineForsakenSand.label>мягкий темный песок</AB_FineForsakenSand.label>
+  <AB_FineForsakenSand.tools.0.label>песок</AB_FineForsakenSand.tools.0.label>
+  
+  <AB_ForsakenRock.label>темный гравий</AB_ForsakenRock.label>
+  <AB_ForsakenRock.tools.0.label>гравий</AB_ForsakenRock.tools.0.label>
+  
+  <AB_DarkMud.label>темная грязь</AB_DarkMud.label>
+  <AB_DarkMud.tools.0.label>грязь</AB_DarkMud.tools.0.label>
+</LanguageData>

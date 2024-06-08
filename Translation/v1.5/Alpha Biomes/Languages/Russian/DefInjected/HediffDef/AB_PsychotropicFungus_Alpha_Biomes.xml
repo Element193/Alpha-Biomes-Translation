@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\Drugs\AB_PsychotropicFungus.xml-->
+  
+  <AB_PsychotropicFungusHigh.label>под кайфом от психогриба</AB_PsychotropicFungusHigh.label>
+  <AB_PsychotropicFungusHigh.description>Вещество психотропного гриба действует на организм, повышая сознание и уменьшая потребность во сне.</AB_PsychotropicFungusHigh.description>
+  
+  <AB_PsychotropicFungusTolerance.stages.0.label>небольшая</AB_PsychotropicFungusTolerance.stages.0.label>
+  <AB_PsychotropicFungusTolerance.stages.1.label>средняя</AB_PsychotropicFungusTolerance.stages.1.label>
+  <AB_PsychotropicFungusTolerance.stages.2.label>сильная</AB_PsychotropicFungusTolerance.stages.2.label>
+  <AB_PsychotropicFungusTolerance.label>толерантность к психогрибу</AB_PsychotropicFungusTolerance.label>
+  <AB_PsychotropicFungusTolerance.description>Толерантность к психотропному грибу. Чем она серьёзнее, тем больше потребуется психотропных грибов для получения первоначального эффекта.</AB_PsychotropicFungusTolerance.description>
+  
+  <AB_PsychotropicFungusAddiction.label>зависимость от психогриба</AB_PsychotropicFungusAddiction.label>
+  <AB_PsychotropicFungusAddiction.description>Зависимость от психотропного гриба. Его продолжительное употребление вызывает неврологические изменения на клеточном уровне, из-за чего мозг уже не способен нормально функционировать без вещества.\n\nПерерыв в регулярном употреблении психотропного гриба вызовет абстинентный синдром - ломку. Длительное воздержание позволит мозгу вернутся к нормальному состоянию и избавится от зависимости.</AB_PsychotropicFungusAddiction.description>
+  <AB_PsychotropicFungusAddiction.stages.1.label>снять</AB_PsychotropicFungusAddiction.stages.1.label>
+</LanguageData>

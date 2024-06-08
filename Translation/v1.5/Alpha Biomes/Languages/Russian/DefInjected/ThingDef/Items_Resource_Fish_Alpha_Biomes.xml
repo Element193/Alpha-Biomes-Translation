@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Items\Items_Resource_Fish.xml-->
+  <VCEF_AbyssalEel.label>глубинный угорь</VCEF_AbyssalEel.label>
+  <VCEF_AbyssalEel.description>Продолговатая рыба, которая приспособилась к жизни в очень низких температурах. У глубинного угря невероятно медленный метаболизм, он нуждается в питании лишь раз в несколько недель.</VCEF_AbyssalEel.description>
+  
+  <VCEF_BloodLeech.label>кровяная пиявка</VCEF_BloodLeech.label>
+  <VCEF_BloodLeech.description>Ярко-красное существо, питается в основном кровью крупных подводных организмов, хотя не прочь укусить и некоторых наземных. Имеет неприятный металлический привкус.</VCEF_BloodLeech.description>
+  
+  <VCEF_BorealSardine.label>северная сардина</VCEF_BorealSardine.label>
+  <VCEF_BorealSardine.description>Небольшая кормовая рыба семейства сельдевых, хорошо приспособлена к холодному климату.</VCEF_BorealSardine.description>
+  
+  <VCEF_DuskySprat.label>сумрачная килька</VCEF_DuskySprat.label>
+  <VCEF_DuskySprat.description>Ночная кормовая рыба, которая обитает в море, хотя ее можно встретить и в пресных водах. Как и большинство кормовых рыб, сумрачная килька очень активна и собирается в большие стаи, которые плавают непрерывно в течение всей ночи.</VCEF_DuskySprat.description>
+  
+  <VCEF_ForsakenAnglerfish.label>морской удильщик</VCEF_ForsakenAnglerfish.label>
+  <VCEF_ForsakenAnglerfish.description>Костлявая рыба, названная за характерный способ охоты - биолюминесцентную приманку, которая привлекает и направляет добычу в рот. Эта рыба имеет темный оттенок чешуи, что позволяет ей маскироваться в морских водах.</VCEF_ForsakenAnglerfish.description>
+  
+  <VCEF_FrigidSwimmer.label>морозный пловец</VCEF_FrigidSwimmer.label>
+  <VCEF_FrigidSwimmer.description>Холодный пловец. Крупный вид рыбы с ненасытным аппетитом. Он приспособился к низким температурам и питается в основном мелкой рыбой, например северными сардинами.</VCEF_FrigidSwimmer.description>
+  
+  <VCEF_GiantPolarPrawn.label>полярная креветка</VCEF_GiantPolarPrawn.label>
+  <VCEF_GiantPolarPrawn.description>Водное ракообразное среднего размера с экзоскелетом и десятью конечностями.</VCEF_GiantPolarPrawn.description>
+  
+  <VCEF_HabdakLongfin.label>хабдак длиннохвостый</VCEF_HabdakLongfin.label>
+  <VCEF_HabdakLongfin.description>Крупный вид пелагических рыб. Встречаются преимущественно в тропических морях.</VCEF_HabdakLongfin.description>
+  
+  <VCEF_Jellyfungus.label>грибная медуза</VCEF_Jellyfungus.label>
+  <VCEF_Jellyfungus.description>Странный организм, похоже, наполовину медуза, наполовину гриб. Его вкус был описан как "гриб, с соленой водой".</VCEF_Jellyfungus.description>
+  
+  <VCEF_MudSplasherCarp.label>карп-брызгун</VCEF_MudSplasherCarp.label>
+  <VCEF_MudSplasherCarp.description>Жирная пресноводная рыба из семейства карповых. Эти карпы любят насыщенные илом воды, где они зарывшись в ил ждут пока добыча подойдет поближе, прежде чем наброситься на нее.</VCEF_MudSplasherCarp.description>
+  
+  <VCEF_MutantFlatfish.label>камбала-мутант</VCEF_MutantFlatfish.label>
+  <VCEF_MutantFlatfish.description>Родственница океанической камбалы, эта трехглазая рыба обитает на дне и питается мелкими ракообразными и другими беспозвоночными существами. Она обитает как в соленых, так и в полусоленых водах.</VCEF_MutantFlatfish.description>
+  
+  <VCEF_OcularFish.label>окулярная рыба</VCEF_OcularFish.label>
+  <VCEF_OcularFish.description>Совершенно чужая порода рыб. Ее единственный огромный желтый глаз, кажется, смотрит во все стороны одновременно.</VCEF_OcularFish.description>
+  
+  <VCEF_PinkBlobfish.label>розовая рыба-лоб</VCEF_PinkBlobfish.label>
+  <VCEF_PinkBlobfish.description>Считается одной из самых уродливых рыб в мире, розовая рыба-лоб имеет квазигуманоидные черты лица, придающие ей очень странный трагикомический вид.</VCEF_PinkBlobfish.description>
+  
+  <VCEF_PropaneBag.label>пропановая медуза</VCEF_PropaneBag.label>
+  <VCEF_PropaneBag.description>Медуза, метаболизм которой основан на пропане, она способна выживать в невероятно экстремальных условиях. Однако употребление этой медузы в пищу может привести к болезненным спазмам в желудке.</VCEF_PropaneBag.description>
+  
+  <VCEF_ShadowFry.label>теневая рыба</VCEF_ShadowFry.label>
+  <VCEF_ShadowFry.description>Мелкая рыба, которая перемещается большими стаями по берегам речных отмелей, стремясь спрятаться от солнечного света в затемненных расщелинах.</VCEF_ShadowFry.description>
+  
+  <VCEF_Slimefish.label>желейная рыба</VCEF_Slimefish.label>
+  <VCEF_Slimefish.description>Вид рыбы, который перерабатывает органические остатки, содержащиеся на дне слизевых водоемов. На вкус как желеобразная резина.</VCEF_Slimefish.description>
+  
+  <VCEF_Spiderfish.label>рыба-паук</VCEF_Spiderfish.label>
+  <VCEF_Spiderfish.description>Странное существо-мутант наполовину рыба, наполовину паук. Оно плетет замысловатые паутины под водой, заманивая добычу в ловушку и сплетая вокруг нее коконы.</VCEF_Spiderfish.description>
+  
+  <VCEF_Spinyfish.label>лангуст</VCEF_Spinyfish.label>
+  <VCEF_Spinyfish.description>У этой рыбы есть выступающие шипы, которые она использует для защиты. Содержит мало мяса, однако очень вкусного.</VCEF_Spinyfish.description>
+  
+  <VCEF_Sturgeon.label>осетр</VCEF_Sturgeon.label>
+  <VCEF_Sturgeon.description>Огромная, долгоживущая рыба с характерными особенностями: хвостовым плавником, похожим на акулий, удлиненным веретенообразным гладким телом без чешуи и броней в виде пяти боковых рядов костных пластин, называемых чешуей.</VCEF_Sturgeon.description>
+</LanguageData>

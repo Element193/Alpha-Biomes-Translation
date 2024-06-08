@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_PropaneLakes.xml-->
+  <AB_CrystalHorn.label>кристаллический рог</AB_CrystalHorn.label>
+  <AB_CrystalHorn.description>Странный цветок кажется лишь частично органическим. Часть его структуры явно кристаллическая, похоже на него не влияет или даже усиливает чрезвычайно холодный климат. Возможно он съедобен.</AB_CrystalHorn.description>
+  
+  <AB_FrostLeaf.label>морозный лист</AB_FrostLeaf.label>
+  <AB_FrostLeaf.description>Эти полупрозрачные растения похоже растут практически везде, даже в заснеженных районах. Их можно сушить на костре и использовать в качестве корма для травоядных животных.</AB_FrostLeaf.description>
+  
+  <AB_RimeNodules.label>морозник</AB_RimeNodules.label>
+  <AB_RimeNodules.description>Морозник - это особое растение, которое содержит пропановое соединение, вызывающее легкую эйфорию, как алкоголь. Такое соединение редко встречается в природе, это говорит о том, что морозник, вероятно, искусственного происхождения. Удивительные свойства вызывают интерес и много вопросов об его происхождении.</AB_RimeNodules.description>
+  
+  <AB_CrystalFlower.label>кристаллический цветок</AB_CrystalFlower.label>
+  <AB_CrystalFlower.description>Высокий, полупрозрачный цветок. Кажется не совсем органическим.</AB_CrystalFlower.description>
+  
+  <AB_FlashFrozenTree.label>замороженное дерево</AB_FlashFrozenTree.label>
+  <AB_FlashFrozenTree.description>Вероятно, это дерево выросло в редкий период потепления, однако было заморожено. Его листья кристаллизовались под воздействием пропана. Содержит небольшое количество древесины.</AB_FlashFrozenTree.description>
+</LanguageData>

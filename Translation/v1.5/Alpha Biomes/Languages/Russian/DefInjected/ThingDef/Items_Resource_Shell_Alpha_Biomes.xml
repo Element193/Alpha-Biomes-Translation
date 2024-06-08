@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Items\Items_Resource_Shell.xml-->
+  <AB_Shell_Tar.label>липкий снаряд</AB_Shell_Tar.label>
+  <AB_Shell_Tar.description>Снаряд, заполненный концентрированным асфальтом. Может быть использован как для стрельбы из миномёта, так и для изготовления мин. При повреждении взрывается.A shell filled with concentrated asphalt. Can be fired from mortars or installed as a trap. Creates a puddle of tar that is very difficult to move across. It is also very difficult to remove, and tends to also remove other floors because it sticks to them and ruins them. All things considered, I wouldn't detonate one of this in my kitchen.</AB_Shell_Tar.description>
+  <AB_Bullet_Shell_Tar.label>липкий снаряд</AB_Bullet_Shell_Tar.label>
+</LanguageData>

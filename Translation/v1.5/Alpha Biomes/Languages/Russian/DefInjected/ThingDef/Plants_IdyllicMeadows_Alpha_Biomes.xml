@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_IdyllicMeadows.xml-->
+  <AB_Flowers.label>цветы</AB_Flowers.label>
+  <AB_Flowers.description>Букет разноцветных цветов.</AB_Flowers.description>
+  
+  <AB_GargantuanLithops.label>каменный литопис</AB_GargantuanLithops.label>
+  <AB_GargantuanLithops.description>Род суккулентных растений, часто называемых булыжниками или живыми камнями из-за их похожего на камень внешнего вида, который сливается со скалами. Гигантский литопис был генетически модифицирован, чтобы извлекать металлы и камни из почвы и встраивать их в свою структуру. Кто сказал, что генетикам не хватает чувства юмора?</AB_GargantuanLithops.description>
+  
+  <AB_GiantFlower.label>гигантская мальва</AB_GiantFlower.label>
+  <AB_GiantFlower.description>Невероятно красивый гигантский цветок, который был выведен древней генетической компанией с использованием генома мальвы. Кажется, что он цветет постоянно. Стебель имеет недостаточную прочность, чтобы стать заменителем древесины.</AB_GiantFlower.description>
+  
+  <AB_GiantSunflower.label>гигантский подсолнух</AB_GiantSunflower.label>
+  <AB_GiantSunflower.description>Гигантский цветок, который был выведен древней генетической компанией с использованием генома обычного подсолнуха. Кажется, что он цветет постоянно. Стебель очень прочный, поэтому его можно срезать и использовать в качестве древесины, а сам цветок выращивает съедобные семена.</AB_GiantSunflower.description>
+  
+  <AB_GiantTulip.label>гигантский тюльпан</AB_GiantTulip.label>
+  <AB_GiantTulip.description>Гигантский цветок, который был выведен древней генетической компанией с использованием генома тюльпана. Кажется, что он цветет постоянно. Стебель очень прочный, поэтому его можно срезать и использовать в качестве древесины.</AB_GiantTulip.description>
+</LanguageData>

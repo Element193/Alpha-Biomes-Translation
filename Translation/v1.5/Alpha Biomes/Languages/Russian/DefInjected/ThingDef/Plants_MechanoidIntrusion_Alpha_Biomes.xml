@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Plants\Plants_MechanoidIntrusion.xml-->
+  <AB_SessileMechanoid.label>механическое дерево</AB_SessileMechanoid.label>
+  <AB_SessileMechanoid.description>Когда-то эта штука была деревом. Механоиды переработали его в полумеханическую структуру, служащую какой-то скудной цели. Возможно, из него получится извлечь немного древесины.</AB_SessileMechanoid.description>
+  
+  <AB_HardyGrass.label>жесткая трава</AB_HardyGrass.label>
+  <AB_HardyGrass.description>Дикая трава. Растёт везде, где есть хоть немного света и минимально плодородная почва.</AB_HardyGrass.description>
+</LanguageData>
