@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!--1.5\Defs\ThingDefs_Misc\Filth_Various.xml-->
-  <AB_SlagRubble.label>шлаковый щебень</AB_SlagRubble.label>
+  <AB_SlagRubble.label>механический мусор</AB_SlagRubble.label>
   <AB_Filth_Tar.label>лужа смолы</AB_Filth_Tar.label>
   <AB_Filth_Tar.description>Лужа горючей смолы.</AB_Filth_Tar.description>
 </LanguageData>
