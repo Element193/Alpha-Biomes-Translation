@@ -6,18 +6,18 @@
 <AB_UseAgariluxParticles>Агарилюкс Прайм выделяет вредный газ</AB_UseAgariluxParticles>
 <AB_SpawnBiome>Биом: {0}</AB_SpawnBiome>
 <AB_RemoveVanillaBiomes>Отключить все стандартные биомы</AB_RemoveVanillaBiomes>
-<AB_BrighterCrags>Темная пустыня ярче</AB_BrighterCrags>
-<AB_BrighterCragsDescription>Сделать темные пустыни более светлыми, если на экран не позволяет разглядеть детали. Вступает в силу при следующем изменении погоды или при загрузке сохранения.</AB_BrighterCragsDescription>
+<AB_BrighterCrags>Туманная пустошь ярче</AB_BrighterCrags>
+<AB_BrighterCragsDescription>Сделать туманные пустоши более светлыми, если экран не позволяет разглядеть детали. Изменения вступят в силу при смене погоды или при загрузке сохранения.</AB_BrighterCragsDescription>
 
 
 <!--     Buildings     -->
 
 <AB_TerrainCannotSupport_Propane>Помпа должна быть установлена на прочном пропановом ландшафте</AB_TerrainCannotSupport_Propane>
-<AB_OcularForestOnly>Устройство будет работать только в окулярном биоме</AB_OcularForestOnly>
-<AB_SpawningNextBumbledrone>Появление новых ульев шмелей в {0}</AB_SpawningNextBumbledrone>
+<AB_OcularForestOnly>Это устройство будет работать только в окулярном лесу</AB_OcularForestOnly>
+<AB_SpawningNextBumbledrone>Появление новых ульев шмелей через {0}</AB_SpawningNextBumbledrone>
 <AB_AlphaAnimalsNotInstalled>Поскольку мод Alpha Animals отсутствует, этот улей неактивен.</AB_AlphaAnimalsNotInstalled>
-<AB_MustPlaceOnTarPit>Помпа должна быть установлена на смоле или в смоляной луже.</AB_MustPlaceOnTarPit>
-<AB_WarningLowEfficiency>Насос работает в режиме низкого КПД из-за отсутствия смоляного ландшафта</AB_WarningLowEfficiency>
+<AB_MustPlaceOnTarPit>Помпа должна быть установлена на смоле или в смоляном озере.</AB_MustPlaceOnTarPit>
+<AB_WarningLowEfficiency>Помпа работает в режиме низкой эффективности из-за отсутствия смолы</AB_WarningLowEfficiency>
 
 <!--     Misc     -->
 
@@ -42,7 +42,7 @@
 
 <!-- Biome commonality -->
 
-<AB_BiomeMultiplier>Шанс генерации: {0}</AB_BiomeMultiplier>
+<AB_BiomeMultiplier>Множитель генерации: {0}</AB_BiomeMultiplier>
 <AB_MultiplierTooltip>Этот множитель влияет на шанс генерации участков такого биома как "{0}" при создании мира. Имейте в виду, что множитель биомов не линейный, поэтому вам придется экспериментировать и настраивать, пока вы не получите нужную генерацию. На это могут повлиять другие моды, которые добавляют новые биомы, либо изменяют генерацию мира.</AB_MultiplierTooltip>
 
 
