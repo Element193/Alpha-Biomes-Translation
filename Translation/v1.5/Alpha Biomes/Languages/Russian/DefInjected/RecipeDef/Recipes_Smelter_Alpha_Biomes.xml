@@ -6,8 +6,8 @@
   <AB_RedQuartzToAlcyonite.jobString>Извлекает альционит из розового кварца</AB_RedQuartzToAlcyonite.jobString>
   
   <AB_CrystalWoodToMatrix.label>переработать кристаллическую древесину в матрицу</AB_CrystalWoodToMatrix.label>
-  <AB_CrystalWoodToMatrix.description>Переработать кристаллическую древесину в прочную кристаллическую матрицу, которая сохраняет и поддерживает температуру.</AB_CrystalWoodToMatrix.description>
-  <AB_CrystalWoodToMatrix.jobString>Перерабатывает кристаллическую древесину в матрицу</AB_CrystalWoodToMatrix.jobString>
+  <AB_CrystalWoodToMatrix.description>Переработать кристаллическую древесину в кристаллиновую матрицу, которая сохраняет и поддерживает температуру.</AB_CrystalWoodToMatrix.description>
+  <AB_CrystalWoodToMatrix.jobString>Перерабатывает кристаллическую древесину</AB_CrystalWoodToMatrix.jobString>
   
   <AB_ResinToProcessed.label>переработать смолу в герметик</AB_ResinToProcessed.label>
   <AB_ResinToProcessed.description>Переработать смолу в густой герметик, который можно использовать для строительства зданий.</AB_ResinToProcessed.description>
